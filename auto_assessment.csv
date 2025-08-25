@@ -1,0 +1,2495 @@
+term,suggested_category,similarity_score,is_seed,oov
+youths,Locations and environments,0.3934,False,False
+youth,Locations and environments,0.3934,False,False
+york,Clothing and personal items,0.3628,False,False
+yonder,Detection and investigation terms,0.1738,False,False
+yesterday_evening,General use,0.0,False,True
+yesterday_afternoon,General use,0.0,False,True
+yesterday,Crime scene objects,0.6409,False,False
+yellow,Physical evidence,0.4869,False,False
+years,Clothing and personal items,0.3938,False,False
+year,Physical evidence,0.2712,False,False
+yards,Detection and investigation terms,0.1911,False,False
+yard,Clothing and personal items,0.3926,False,False
+writing,Crime scene objects,0.5123,False,False
+writ,Detection and investigation terms,0.4486,False,False
+wrinkles,Physical evidence,0.3957,False,False
+wound_bone,General use,0.0,False,True
+wound,Injuries and body parts,0.5078,False,False
+world,Detection and investigation terms,0.3444,False,False
+work,Clothing and personal items,0.4169,False,False
+words_today,General use,0.0,False,True
+words_apology,General use,0.0,False,True
+words,Crime scene objects,0.3973,False,False
+word_writing,General use,0.0,False,True
+word_word,General use,0.0,False,True
+word_voice,General use,0.0,False,True
+word_truth,General use,0.0,False,True
+word_garden,General use,0.0,False,True
+word_complaint,General use,0.0,False,True
+word,Crime scene objects,0.439,False,False
+woolwich,Locations and environments,0.1186,False,False
+wood_floor,General use,0.0,False,True
+wood,Clothing and personal items,0.2223,False,False
+wonder,Clothing and personal items,0.3679,False,False
+women,Injuries and body parts,0.5562,False,False
+woman_face,General use,0.0,False,True
+woman,Clothing and personal items,0.2542,False,False
+wives,Clothing and personal items,0.2077,False,False
+wits,Locations and environments,0.3177,False,False
+witnesses,Detection and investigation terms,0.5057,False,False
+witness,Detection and investigation terms,0.5493,True,False
+wish,Clothing and personal items,0.3679,False,False
+wire,Detection and investigation terms,0.2531,False,False
+winter,Clothing and personal items,0.4701,False,False
+windows_side,General use,0.0,False,True
+windows_part,General use,0.0,False,True
+windows_head,General use,0.0,False,True
+windows_glimpse,General use,0.0,False,True
+windows_floor,General use,0.0,False,True
+windows_doors,General use,0.0,False,True
+windows,Clothing and personal items,0.4222,False,False
+window_lawn,General use,0.0,False,True
+window_garden,General use,0.0,False,True
+window_face,General use,0.0,False,True
+window_chimney,General use,0.0,False,True
+window_cab,General use,0.0,False,True
+window,Weapons and projectiles,0.348,False,False
+windings,Physical evidence,0.4522,False,False
+wind,Detection and investigation terms,0.3571,False,False
+winchester,Clothing and personal items,0.3628,False,False
+wilson,Clothing and personal items,0.3978,False,False
+william,Clothing and personal items,0.3978,False,False
+will,Detection and investigation terms,0.4054,False,False
+wiggins,Substances and poisons,0.155,False,False
+wife,Clothing and personal items,0.4223,False,False
+wicker,Crime scene objects,0.5128,False,False
+whole,Clothing and personal items,0.4523,False,False
+whiter,Physical evidence,0.4126,False,False
+white,Clothing and personal items,0.3484,False,False
+whip_hand,General use,0.0,False,True
+whereabouts,Locations and environments,0.6337,False,False
+wheels,Physical evidence,0.4128,False,False
+wharf,Substances and poisons,0.2204,False,False
+west,Clothing and personal items,0.4232,False,False
+wells,Physical evidence,0.4768,False,False
+well,Physical evidence,0.4583,False,False
+weight_heart,General use,0.0,False,True
+weight,Physical evidence,0.4128,False,False
+weeks,Clothing and personal items,0.1759,False,False
+week_morning,General use,0.0,False,True
+week,Crime scene objects,0.2761,False,False
+wedding,Substances and poisons,0.075,False,False
+web,Clothing and personal items,0.2282,False,False
+weather,Substances and poisons,0.2961,False,False
+weapons,Weapons and projectiles,0.8046,False,False
+weapon_hands,General use,0.0,False,True
+weapon,Weapons and projectiles,0.8046,False,False
+ways,Physical evidence,0.5694,False,False
+way_means,General use,0.0,False,True
+way_letter,General use,0.0,False,True
+way_instructions,General use,0.0,False,True
+way_inspector,General use,0.0,False,True
+way_incident,General use,0.0,False,True
+way_impression,General use,0.0,False,True
+way_heart,General use,0.0,False,True
+way_danger,General use,0.0,False,True
+way_captain,General use,0.0,False,True
+way,Physical evidence,0.4912,False,False
+wave,Physical evidence,0.4522,False,False
+waterloo,Locations and environments,0.0986,False,False
+water,Substances and poisons,0.3683,False,False
+watch,Crime scene objects,0.2307,False,False
+waste_paper,General use,0.0,False,True
+waste_energy,General use,0.0,False,True
+waste,Substances and poisons,0.6345,False,False
+warren,Clothing and personal items,0.3978,False,False
+warrant,Detection and investigation terms,0.4707,False,False
+warning,Detection and investigation terms,0.415,False,False
+ward,Substances and poisons,0.4085,False,False
+war,Clothing and personal items,0.3467,False,False
+want,Clothing and personal items,0.3679,False,False
+wanderings,Physical evidence,0.2657,False,False
+walls,Physical evidence,0.4146,False,False
+wall_hat,General use,0.0,False,True
+wall,Weapons and projectiles,0.348,False,False
+walk,Clothing and personal items,0.385,False,False
+wait,Clothing and personal items,0.3679,False,False
+von,Locations and environments,0.0381,False,False
+volume,Physical evidence,0.5313,False,False
+voices,Locations and environments,0.2722,False,False
+voice,Locations and environments,0.2722,False,False
+visitors,Physical evidence,0.3027,False,False
+visitor,Physical evidence,0.3027,False,False
+visit,Physical evidence,0.3027,False,False
+virtue,Detection and investigation terms,0.5802,False,False
+violence,Locations and environments,0.3934,False,False
+villain,Locations and environments,0.3243,False,False
+village_inn,General use,0.0,False,True
+village,Clothing and personal items,0.4223,False,False
+vii,Clothing and personal items,0.4681,False,False
+vigil,Locations and environments,1.0,False,False
+view_windows,General use,0.0,False,True
+view,Crime scene objects,0.3973,False,False
+victoria,Clothing and personal items,0.3628,False,False
+victim_accident,General use,0.0,False,True
+victim,Locations and environments,0.5392,False,False
+vicar,Clothing and personal items,0.129,False,False
+vessels,Injuries and body parts,0.6878,False,False
+verdict_murder,General use,0.0,False,True
+verdict,Detection and investigation terms,0.5106,False,False
+veins,Injuries and body parts,0.5078,False,False
+vegetation,Clothing and personal items,0.448,False,False
+vegetable_alkaloid,General use,0.0,False,True
+vegetable,Clothing and personal items,0.502,False,False
+vapour,Physical evidence,0.4768,False,False
+value,Clothing and personal items,0.2957,False,False
+valley,Clothing and personal items,0.3628,False,False
+use_time,General use,0.0,False,True
+use,Physical evidence,0.5186,False,False
+uproar,Crime scene objects,0.3949,False,False
+university,Clothing and personal items,0.3628,False,False
+unhappy,Crime scene objects,0.3703,False,False
+understanding,Physical evidence,0.5728,False,False
+underground,Injuries and body parts,0.4185,False,False
+uncle_letter,General use,0.0,False,True
+uncle,Clothing and personal items,0.3012,False,False
+umbrella,Clothing and personal items,0.7726,False,False
+typewriting,Physical evidence,0.257,False,False
+typewriter,Weapons and projectiles,0.1836,False,False
+tut_tut,General use,0.0,False,True
+tut_sir,General use,0.0,False,True
+tut,Clothing and personal items,0.2731,False,False
+turn_lock,General use,0.0,False,True
+turn,Physical evidence,0.4912,False,False
+tunnels,Injuries and body parts,0.4185,False,False
+tuesday,Clothing and personal items,0.3759,False,False
+truth,Physical evidence,0.4106,False,False
+trousers,Injuries and body parts,0.2866,False,False
+trouble,Physical evidence,0.4912,False,False
+trigger,Weapons and projectiles,0.8046,False,False
+trees_side,General use,0.0,False,True
+trees,Clothing and personal items,0.448,False,False
+treaty,Detection and investigation terms,0.3706,False,False
+treatment,Injuries and body parts,0.4754,False,False
+treatise,Crime scene objects,0.3691,False,False
+treat,Injuries and body parts,0.4754,False,False
+treasure,Clothing and personal items,0.254,False,False
+trap,Clothing and personal items,0.4157,False,False
+train,Locations and environments,0.2452,False,False
+trail,Weapons and projectiles,0.2591,False,False
+tragedy,Weapons and projectiles,0.36,False,False
+trade,Physical evidence,0.2891,False,False
+tract,Injuries and body parts,0.6038,False,False
+tracks,Physical evidence,0.0951,False,False
+track_blood,General use,0.0,False,True
+track,Clothing and personal items,0.1249,False,False
+traces_blood,General use,0.0,False,True
+traces,Physical evidence,0.4796,False,False
+trace,Physical evidence,0.5954,True,False
+town,Clothing and personal items,0.4223,False,False
+touch_colour,General use,0.0,False,True
+touch,Physical evidence,0.4363,False,False
+torches,Weapons and projectiles,0.7421,False,False
+top_speed,General use,0.0,False,True
+top,Detection and investigation terms,0.3762,False,False
+tooth,Physical evidence,0.4126,False,False
+tonight,Crime scene objects,0.2761,False,False
+tongs,Weapons and projectiles,0.858,False,False
+tone,Physical evidence,0.4202,False,False
+tomorrow_report,General use,0.0,False,True
+tomorrow_morning_matter,General use,0.0,False,True
+tomorrow_morning,General use,0.0,False,True
+tomorrow_doubt,General use,0.0,False,True
+tomorrow,Crime scene objects,0.2761,False,False
+today_tomorrow,General use,0.0,False,True
+today_saturday,General use,0.0,False,True
+today_mr,General use,0.0,False,True
+today_example,General use,0.0,False,True
+today,Crime scene objects,0.6409,False,False
+tobacco,Physical evidence,0.6313,True,False
+tip,Weapons and projectiles,0.858,False,False
+tint,Physical evidence,0.4937,False,False
+tinge_colour,General use,0.0,False,True
+tin,Physical evidence,0.4584,False,False
+times_face,General use,0.0,False,True
+times,Physical evidence,0.4706,False,False
+time_sight,General use,0.0,False,True
+time_purpose,General use,0.0,False,True
+time_names,General use,0.0,False,True
+time_memory,General use,0.0,False,True
+time_manner,General use,0.0,False,True
+time_letter,General use,0.0,False,True
+time_impression,General use,0.0,False,True
+time_hat,General use,0.0,False,True
+time_hand,General use,0.0,False,True
+time_face,General use,0.0,False,True
+time_effect,General use,0.0,False,True
+time_cab,General use,0.0,False,True
+time_bell,General use,0.0,False,True
+time_attempt,General use,0.0,False,True
+time,Physical evidence,0.4912,False,False
+tiger,Weapons and projectiles,0.3262,False,False
+ticket,Clothing and personal items,0.3063,False,False
+thumb,Clothing and personal items,0.303,False,False
+throat,Injuries and body parts,0.395,False,False
+thrill,Physical evidence,0.3294,False,False
+threshold,Physical evidence,0.4916,False,False
+thread,Crime scene objects,0.3954,True,False
+thoughts,Crime scene objects,0.3973,False,False
+thought_face,General use,0.0,False,True
+thought,Physical evidence,0.4912,False,False
+think,Clothing and personal items,0.3679,False,False
+things,Physical evidence,0.4912,False,False
+thing_power,General use,0.0,False,True
+thing_memory,General use,0.0,False,True
+thing_letter,General use,0.0,False,True
+thing_energy,General use,0.0,False,True
+thing,Physical evidence,0.4912,False,False
+thief,Detection and investigation terms,0.3511,False,False
+theory_theory,General use,0.0,False,True
+theory_facts,General use,0.0,False,True
+theory_case,General use,0.0,False,True
+theory,Physical evidence,0.5728,False,False
+theories_facts,General use,0.0,False,True
+theories,Physical evidence,0.5728,False,False
+theatre,Detection and investigation terms,0.3484,False,False
+thames,Substances and poisons,0.1274,False,False
+textbook,Crime scene objects,0.3691,False,False
+testtube_hand,General use,0.0,False,True
+testimony,Detection and investigation terms,0.5493,False,False
+test,Detection and investigation terms,0.2766,False,False
+terror,Locations and environments,0.5036,False,False
+terrace,Substances and poisons,0.1842,False,False
+terms,Physical evidence,0.5913,False,False
+tenpound_note,General use,0.0,False,True
+tennis_shoes,General use,0.0,False,True
+temper,Physical evidence,0.3372,False,False
+telegram_pocket,General use,0.0,False,True
+telegram_mr,General use,0.0,False,True
+telegram_london,General use,0.0,False,True
+telegram_,Crime scene objects,0.4477,False,False
+telegram,Crime scene objects,0.6038,False,False
+teeth,Physical evidence,0.4126,False,False
+task,Detection and investigation terms,0.3819,False,False
+tape_measure,General use,0.0,False,True
+tape,Crime scene objects,0.6618,False,False
+talking,Clothing and personal items,0.4362,False,False
+talk,Clothing and personal items,0.3679,False,False
+table,Detection and investigation terms,0.2879,False,False
+system_way,General use,0.0,False,True
+system,Detection and investigation terms,0.3868,False,False
+syndicate,Substances and poisons,0.3997,False,False
+symptoms_man,General use,0.0,False,True
+sword,Weapons and projectiles,0.8046,False,False
+switch,Physical evidence,0.4522,False,False
+sweat,Injuries and body parts,0.5078,False,False
+swear,Clothing and personal items,0.3679,False,False
+suspicions_case,General use,0.0,False,True
+suspicions,Detection and investigation terms,0.5081,False,False
+suspicion,Detection and investigation terms,0.2753,False,False
+survivor,Injuries and body parts,0.5898,False,False
+surrey,Locations and environments,0.0662,False,False
+surprise_face,General use,0.0,False,True
+surprise,Physical evidence,0.3294,False,False
+surmises,Detection and investigation terms,0.3551,False,False
+surmise,Detection and investigation terms,0.3551,False,False
+surgeons,Injuries and body parts,0.3716,False,False
+surgeon,Injuries and body parts,0.3716,False,False
+supposition,Detection and investigation terms,0.3551,False,False
+supply,Physical evidence,0.4877,False,False
+sun_face,General use,0.0,False,True
+sun,Physical evidence,0.5152,False,False
+summer,Clothing and personal items,0.4701,False,False
+sum,Physical evidence,0.6391,False,False
+suite_rooms,General use,0.0,False,True
+suit_cloth_cap,General use,0.0,False,True
+suit,Detection and investigation terms,0.3958,False,False
+suggestion,Physical evidence,0.5728,False,False
+successes_failures,General use,0.0,False,True
+successes,Physical evidence,0.4236,False,False
+success,Physical evidence,0.4476,False,False
+substance,Substances and poisons,0.6345,False,False
+subject_papers,General use,0.0,False,True
+subject,Physical evidence,0.5728,False,False
+style,Physical evidence,0.3803,False,False
+stump,Clothing and personal items,0.7726,False,False
+stuff,Clothing and personal items,0.4523,False,False
+study_table,General use,0.0,False,True
+study_study,General use,0.0,False,True
+study_day,General use,0.0,False,True
+study__,Physical evidence,0.2913,False,False
+study,Physical evidence,0.4847,False,False
+studies,Physical evidence,0.4847,False,False
+struggle,Weapons and projectiles,0.4407,False,False
+stroke_luck,General use,0.0,False,True
+stroke,Injuries and body parts,0.6459,False,False
+strips,Clothing and personal items,0.4424,False,False
+strip_grass,General use,0.0,False,True
+strength,Physical evidence,0.4071,False,False
+streets,Locations and environments,0.3934,False,False
+street_drive,General use,0.0,False,True
+street,Clothing and personal items,0.3379,False,False
+stream,Clothing and personal items,0.3711,False,False
+straw_hat,General use,0.0,False,True
+straw,Clothing and personal items,0.7726,False,False
+stranger,Clothing and personal items,0.4311,False,False
+story,Locations and environments,0.2607,False,False
+storage,Detection and investigation terms,0.3868,False,False
+stool,Substances and poisons,0.4861,False,False
+stones,Physical evidence,0.4584,False,False
+stone,Clothing and personal items,0.4263,False,False
+stick_hand,General use,0.0,False,True
+stick,Clothing and personal items,0.4169,False,False
+steps,Physical evidence,0.4213,False,False
+step_hand,General use,0.0,False,True
+step,Clothing and personal items,0.4169,False,False
+steel,Physical evidence,0.4584,False,False
+steam,Substances and poisons,0.5259,False,False
+station,Physical evidence,0.1802,False,False
+statesmen,Detection and investigation terms,0.376,False,False
+statement_mr,General use,0.0,False,True
+statement_inspector,General use,0.0,False,True
+statement_father,General use,0.0,False,True
+statement_,Crime scene objects,0.4415,False,False
+statement,Crime scene objects,0.6409,False,False
+state,Detection and investigation terms,0.4393,False,False
+startingpoint_investigation,General use,0.0,False,True
+start,Physical evidence,0.4912,False,False
+stand,Clothing and personal items,0.3679,False,False
+stamford,Substances and poisons,0.2204,False,False
+stake_man,General use,0.0,False,True
+stairs,Locations and environments,0.2872,False,False
+stair,Weapons and projectiles,0.348,False,False
+stains_blood,General use,0.0,False,True
+stains,Physical evidence,0.4146,False,False
+stage_investigation,General use,0.0,False,True
+stage,Injuries and body parts,0.5898,False,False
+stables,Clothing and personal items,0.3975,False,False
+stab_side,General use,0.0,False,True
+stab,Weapons and projectiles,0.858,False,False
+st_louis,General use,0.0,False,True
+st_jamess,General use,0.0,False,True
+st,Clothing and personal items,0.3628,False,False
+squares,Clothing and personal items,0.4851,False,False
+squareness,Injuries and body parts,0.3622,False,False
+square_paper,General use,0.0,False,True
+square,Clothing and personal items,0.3554,False,False
+springs,Clothing and personal items,0.3628,False,False
+spring,Substances and poisons,0.2222,False,False
+spot,Physical evidence,0.4912,False,False
+spite,Physical evidence,0.4706,False,False
+spies_agents,General use,0.0,False,True
+spies,Locations and environments,0.5878,False,False
+speed,Detection and investigation terms,0.5695,False,False
+speculations,Detection and investigation terms,0.3551,False,False
+speculation,Detection and investigation terms,0.5081,False,False
+specimens,Injuries and body parts,0.5155,False,False
+specimen,Injuries and body parts,0.5155,False,False
+spear,Weapons and projectiles,0.858,False,False
+spasm_pain,General use,0.0,False,True
+spasm,Injuries and body parts,0.5078,False,False
+spark,Physical evidence,0.4481,False,False
+space_front,General use,0.0,False,True
+space,Detection and investigation terms,0.3868,False,False
+southampton,Clothing and personal items,0.3628,False,False
+south,Clothing and personal items,0.4232,False,False
+sound,Physical evidence,0.4202,False,False
+soul,Detection and investigation terms,0.3444,False,False
+sorts,Clothing and personal items,0.4426,False,False
+sort,Clothing and personal items,0.4426,False,False
+sons,Locations and environments,0.5392,False,False
+son,Locations and environments,0.5392,False,False
+solution_,Physical evidence,0.3721,False,False
+solution,Physical evidence,0.4544,False,False
+sole,Clothing and personal items,0.4544,True,False
+soil,Substances and poisons,0.4172,False,False
+sofa,Clothing and personal items,0.4263,False,False
+society,Detection and investigation terms,0.3444,False,False
+smudge_blood,General use,0.0,False,True
+smoking,Injuries and body parts,0.5898,False,False
+smoke_light,General use,0.0,False,True
+smoke,Substances and poisons,0.6345,False,False
+smiths,Substances and poisons,0.2919,False,False
+smith,Clothing and personal items,0.3978,False,False
+smile,Clothing and personal items,0.2644,False,False
+smell_tobacco,General use,0.0,False,True
+smell,Physical evidence,0.365,False,False
+slip_paper,General use,0.0,False,True
+slip,Clothing and personal items,0.3024,False,False
+sleep,Crime scene objects,0.3385,False,False
+sky,Clothing and personal items,0.2319,False,False
+skin,Physical evidence,0.3957,False,False
+skill,Detection and investigation terms,0.3131,False,False
+skein,Physical evidence,0.4869,False,False
+size,Physical evidence,0.4128,False,False
+situation,Locations and environments,0.4513,False,False
+sittingroom,General use,0.0,False,True
+sisters,Detection and investigation terms,0.2825,False,False
+sister,Clothing and personal items,0.2644,False,False
+sir_telegram,General use,0.0,False,True
+sir_document,General use,0.0,False,True
+sir_charles,General use,0.0,False,True
+sir,Clothing and personal items,0.3012,False,False
+singular,Physical evidence,0.3764,False,False
+silver,Clothing and personal items,0.249,False,False
+silence,Locations and environments,0.2722,False,False
+sikhs,Substances and poisons,0.2619,False,False
+signs,Injuries and body parts,0.4713,False,False
+significance,Physical evidence,0.5954,False,False
+signals,Physical evidence,0.4522,False,False
+signal_answer,General use,0.0,False,True
+signal,Physical evidence,0.4522,False,False
+sign_violence,General use,0.0,False,True
+sign,Detection and investigation terms,0.4054,False,False
+sight_spot,General use,0.0,False,True
+sight_mr,General use,0.0,False,True
+sight_miss,General use,0.0,False,True
+sight_figure,General use,0.0,False,True
+sight_face,General use,0.0,False,True
+sight_eyes,General use,0.0,False,True
+sight_appear,General use,0.0,False,True
+sight,Weapons and projectiles,0.8046,False,False
+sierra,Clothing and personal items,0.3279,False,False
+sidetable,Crime scene objects,0.1392,False,False
+side_windows,General use,0.0,False,True
+side_window_cab,General use,0.0,False,True
+side_heart,General use,0.0,False,True
+side,Physical evidence,0.4547,False,False
+sickness,Substances and poisons,0.419,False,False
+shutters,Clothing and personal items,0.4263,False,False
+shrinking,Physical evidence,0.4078,False,False
+shoulders,Injuries and body parts,0.2866,False,False
+shoulder,Injuries and body parts,0.3412,False,False
+shot_revolver,General use,0.0,False,True
+shot,Locations and environments,0.5392,False,False
+shorthand,Physical evidence,0.4147,False,False
+shortcomings,Physical evidence,0.4236,False,False
+shop_window,General use,0.0,False,True
+sholtos,General use,0.0,False,True
+sholto,General use,0.0,False,True
+shoes_bedroom,General use,0.0,False,True
+shoes,Clothing and personal items,0.4681,False,False
+shoe,Clothing and personal items,0.4681,True,False
+shock,Physical evidence,0.5672,False,False
+shirt_trousers,General use,0.0,False,True
+shirt,Physical evidence,0.4869,False,False
+ship,Locations and environments,0.4125,False,False
+shield,Weapons and projectiles,0.8046,False,False
+sheets,Crime scene objects,0.6618,False,False
+sheet_paper,General use,0.0,False,True
+sheet_notepaper,General use,0.0,False,True
+sheet,Crime scene objects,0.6618,False,False
+shave,Injuries and body parts,0.4882,False,False
+sharpness,Physical evidence,0.531,False,False
+share,Detection and investigation terms,0.3594,False,False
+shape,Physical evidence,0.2613,False,False
+shag_tobacco,General use,0.0,False,True
+shadow,Clothing and personal items,0.3389,False,False
+severity,Injuries and body parts,0.5011,False,False
+settee,Crime scene objects,0.1392,False,False
+service,Physical evidence,0.3147,False,False
+servants,Locations and environments,0.3268,False,False
+servant,Locations and environments,0.1704,False,False
+series,Crime scene objects,0.2307,False,False
+sergeant,Locations and environments,0.5392,False,False
+sentinel,Injuries and body parts,0.5964,False,False
+sentences,Physical evidence,0.4147,False,False
+sense,Crime scene objects,0.4097,False,False
+sensation_disappearance,General use,0.0,False,True
+seeds,Clothing and personal items,0.4116,False,False
+sedative,Physical evidence,0.4353,False,False
+secretary,Detection and investigation terms,0.2856,False,False
+secret,Clothing and personal items,0.3389,False,False
+seat,Locations and environments,0.2429,False,False
+search,Physical evidence,0.4134,False,False
+sea,Clothing and personal items,0.357,False,False
+screwdriver,Weapons and projectiles,0.858,False,False
+scraps,Crime scene objects,0.6618,False,False
+scrapbook,Crime scene objects,0.6618,False,False
+scrap_paper,General use,0.0,False,True
+scrap,Crime scene objects,0.6618,False,False
+scott,Clothing and personal items,0.3978,False,False
+scotland_yard_mr,General use,0.0,False,True
+scotland_yard_inspector,General use,0.0,False,True
+scotland_yard_,Clothing and personal items,0.1296,False,False
+scotland_yard,General use,0.0,False,True
+scotland,Clothing and personal items,0.3628,False,False
+scope,Physical evidence,0.5156,False,False
+scissors,Weapons and projectiles,0.858,False,False
+science,Injuries and body parts,0.4584,False,False
+school,Physical evidence,0.3369,False,False
+scholarship,Detection and investigation terms,0.5802,False,False
+scent,Weapons and projectiles,0.3333,False,False
+scene,Clothing and personal items,0.3468,False,False
+scar,Physical evidence,0.3957,False,False
+scandals,Detection and investigation terms,0.4471,False,False
+scandal_people,General use,0.0,False,True
+scandal_matter,General use,0.0,False,True
+scandal_man,General use,0.0,False,True
+scandal,Detection and investigation terms,0.4006,False,False
+sawdust,Clothing and personal items,0.4176,False,False
+savage,Weapons and projectiles,0.3917,False,False
+saturdays,Physical evidence,0.1323,False,False
+satisfaction,Detection and investigation terms,0.4022,False,False
+san,Clothing and personal items,0.3628,False,False
+sample_facts,General use,0.0,False,True
+sample,Physical evidence,0.4847,False,False
+salt,Clothing and personal items,0.4108,False,False
+sake,Clothing and personal items,0.4149,False,False
+saints,Locations and environments,0.2872,False,False
+safety_night,General use,0.0,False,True
+safety,Physical evidence,0.4882,False,False
+safes,Weapons and projectiles,0.1836,False,False
+s_hand,General use,0.0,False,True
+s_face,General use,0.0,False,True
+s,Clothing and personal items,0.1296,False,False
+rumours,Detection and investigation terms,0.5081,False,False
+rumour,Detection and investigation terms,0.369,False,False
+rule,Detection and investigation terms,0.5204,False,False
+ruddy_face,General use,0.0,False,True
+rubbish,Clothing and personal items,0.4523,False,False
+row,Physical evidence,0.4547,False,False
+rounds,Weapons and projectiles,0.8046,False,False
+round,Weapons and projectiles,0.3967,False,False
+ross,Clothing and personal items,0.3759,False,False
+rope,Weapons and projectiles,0.3157,False,False
+rooms_windows,General use,0.0,False,True
+rooms,Physical evidence,0.3913,False,False
+room_today,General use,0.0,False,True
+room_tobacco,General use,0.0,False,True
+room_smoke,General use,0.0,False,True
+room_sight,General use,0.0,False,True
+room_papers,General use,0.0,False,True
+room_lawn,General use,0.0,False,True
+room_hat,General use,0.0,False,True
+room_hand,General use,0.0,False,True
+room_furniture,General use,0.0,False,True
+room_face,General use,0.0,False,True
+room,Detection and investigation terms,0.4953,False,False
+roofs,Clothing and personal items,0.7726,False,False
+roof,Physical evidence,0.4545,False,False
+rolls_paper,General use,0.0,False,True
+rollers,Physical evidence,0.3559,False,False
+roll_paper,General use,0.0,False,True
+rocks,Clothing and personal items,0.4108,False,False
+rock,Clothing and personal items,0.4108,False,False
+robbery,Detection and investigation terms,0.3511,False,False
+robber,Locations and environments,1.0,False,False
+road_sight,General use,0.0,False,True
+road,Locations and environments,0.2452,False,False
+riverside,Clothing and personal items,0.3628,False,False
+river,Crime scene objects,0.3788,False,False
+rival,Detection and investigation terms,0.4328,False,False
+ritual,Physical evidence,0.3546,False,False
+rise,Physical evidence,0.5313,False,False
+ring,Clothing and personal items,0.249,False,False
+rigidity,Physical evidence,0.4078,False,False
+right,Physical evidence,0.4912,False,False
+rifles,Weapons and projectiles,0.8046,False,False
+rifle,Weapons and projectiles,0.8046,False,False
+ridge,Clothing and personal items,0.3628,False,False
+richness,Physical evidence,0.4202,False,False
+ribs,Clothing and personal items,0.4423,False,False
+ribbon,Crime scene objects,0.6618,False,False
+revolver_wound,General use,0.0,False,True
+revolver_pocket,General use,0.0,False,True
+revolver_man,General use,0.0,False,True
+revolver_hand,General use,0.0,False,True
+revolver_drawer_pocket,General use,0.0,False,True
+revolver_drawer,General use,0.0,False,True
+revolver_door,General use,0.0,False,True
+revolver,Weapons and projectiles,0.8046,False,False
+reversion,Physical evidence,0.4575,False,False
+reverse,Physical evidence,0.5818,False,False
+revenge,Locations and environments,0.4527,False,False
+return,Crime scene objects,0.3418,False,False
+results,Physical evidence,0.4134,False,False
+result,Physical evidence,0.4134,False,False
+rest_drive,General use,0.0,False,True
+rest,Physical evidence,0.4706,False,False
+responsibility_position,General use,0.0,False,True
+resource,Physical evidence,0.513,False,False
+resignation,Crime scene objects,0.6038,False,False
+research,Physical evidence,0.4847,False,False
+reputation,Detection and investigation terms,0.3173,False,False
+representative,Detection and investigation terms,0.5578,False,False
+reports,Crime scene objects,0.6409,False,False
+reporting,Detection and investigation terms,0.4842,False,False
+reporter,Detection and investigation terms,0.4842,False,False
+report_time,General use,0.0,False,True
+report_evening,General use,0.0,False,True
+report,Crime scene objects,0.6409,False,False
+reply_telegram,General use,0.0,False,True
+reply,Crime scene objects,0.3973,False,False
+reparation_power,General use,0.0,False,True
+remembrance,Crime scene objects,0.3933,False,False
+remark,Crime scene objects,0.233,False,False
+relief,Injuries and body parts,0.4764,False,False
+relative,Physical evidence,0.5954,False,False
+relation_incidents,General use,0.0,False,True
+relation,Physical evidence,0.5954,False,False
+registry,Clothing and personal items,0.2371,False,False
+regiment,Weapons and projectiles,0.4407,False,False
+regard,Detection and investigation terms,0.5212,False,False
+refinement,Detection and investigation terms,0.5695,False,False
+references,Physical evidence,0.5728,False,False
+reference,Physical evidence,0.5728,False,False
+reeds,Clothing and personal items,0.7726,False,False
+red,Clothing and personal items,0.4639,False,False
+record,Crime scene objects,0.169,False,False
+recognition,Detection and investigation terms,0.3484,False,False
+rebels,Locations and environments,0.5878,False,False
+rebel,Locations and environments,0.5878,False,False
+reasons,Physical evidence,0.5728,False,False
+reasoning,Physical evidence,0.5728,False,False
+reason,Physical evidence,0.4912,False,False
+reach,Detection and investigation terms,0.3811,False,False
+rambles,Physical evidence,0.2657,False,False
+rain_windows,General use,0.0,False,True
+rain,Substances and poisons,0.2961,False,False
+questions,Detection and investigation terms,0.3803,False,False
+question_significance,General use,0.0,False,True
+question_point,General use,0.0,False,True
+question_note,General use,0.0,False,True
+question,Detection and investigation terms,0.3803,False,False
+queer,Clothing and personal items,0.2871,False,False
+quarters,Clothing and personal items,0.2845,False,False
+quarter,Physical evidence,0.2971,False,False
+quarrel,Detection and investigation terms,0.443,False,False
+quantity_blood,General use,0.0,False,True
+qualifications,Detection and investigation terms,0.3131,False,False
+pursuit,Detection and investigation terms,0.3795,False,False
+pursuers,Weapons and projectiles,0.4471,False,False
+purpose,Detection and investigation terms,0.5212,False,False
+pulse,Physical evidence,0.4522,False,False
+pulp,Physical evidence,0.4225,False,False
+public,Detection and investigation terms,0.4624,False,False
+protest,Crime scene objects,0.3949,False,False
+prosecution,Detection and investigation terms,0.5493,False,False
+propriety,Detection and investigation terms,0.4486,False,False
+proposition,Detection and investigation terms,0.5212,False,False
+property,Detection and investigation terms,0.2658,False,False
+proofs,Physical evidence,0.5728,False,False
+proof,Physical evidence,0.5728,False,False
+promise,Detection and investigation terms,0.4235,False,False
+prominence,Detection and investigation terms,0.5497,False,False
+programme,Detection and investigation terms,0.5061,False,False
+profiles,Physical evidence,0.4847,False,False
+professor,Detection and investigation terms,0.39,False,False
+profession_time,General use,0.0,False,True
+profession_name,General use,0.0,False,True
+profession,Detection and investigation terms,0.5802,False,False
+problem,Physical evidence,0.4912,False,False
+probability,Physical evidence,0.5954,False,False
+prizes,Detection and investigation terms,0.3484,False,False
+prize,Detection and investigation terms,0.3484,False,False
+prisoner_magistrates,General use,0.0,False,True
+prisoner,Locations and environments,0.4113,False,False
+prints,Crime scene objects,0.6618,False,False
+printing,Physical evidence,0.29,False,False
+printer,Physical evidence,0.29,False,False
+print,Crime scene objects,0.6618,False,False
+principle,Detection and investigation terms,0.5212,False,False
+prime,Clothing and personal items,0.4381,False,False
+price,Clothing and personal items,0.2957,False,False
+pretext,Detection and investigation terms,0.5212,False,False
+presumption,Detection and investigation terms,0.5212,False,False
+presence_forces,General use,0.0,False,True
+presence_death,General use,0.0,False,True
+presence,Detection and investigation terms,0.415,False,False
+prediction,Physical evidence,0.4438,False,False
+precursor,Physical evidence,0.5614,False,False
+precautions_man,General use,0.0,False,True
+precautions,Physical evidence,0.5301,False,False
+precaution,Physical evidence,0.4974,False,False
+pray,Crime scene objects,0.3254,False,False
+practice,Physical evidence,0.4213,False,False
+powers,Clothing and personal items,0.3389,False,False
+power_scent,General use,0.0,False,True
+power_man,General use,0.0,False,True
+power_,Detection and investigation terms,0.3936,False,False
+power,Detection and investigation terms,0.5695,False,False
+powder_window,General use,0.0,False,True
+powder,Physical evidence,0.4039,False,False
+pounds,Weapons and projectiles,0.1745,False,False
+postmark,Crime scene objects,0.2619,False,False
+post,Crime scene objects,0.3973,False,False
+possibility,Detection and investigation terms,0.415,False,False
+possession,Detection and investigation terms,0.4707,False,False
+position,Physical evidence,0.4547,False,False
+portsmouth,Clothing and personal items,0.3628,False,False
+porter,Clothing and personal items,0.1861,False,False
+port,Clothing and personal items,0.4222,False,False
+porch_front,General use,0.0,False,True
+pools,Substances and poisons,0.5259,False,False
+pool_blood,General use,0.0,False,True
+pool,Substances and poisons,0.5259,False,False
+pondicherry,Substances and poisons,0.1153,False,False
+politicians,Detection and investigation terms,0.376,False,False
+policeman,Locations and environments,0.5392,False,False
+police_investigation,General use,0.0,False,True
+police_inspector,General use,0.0,False,True
+police,Locations and environments,0.5392,False,False
+poisoning,Substances and poisons,0.7206,False,False
+poison_system,General use,0.0,False,True
+poison,Substances and poisons,0.7206,True,False
+points,Injuries and body parts,0.1357,False,False
+point_question,General use,0.0,False,True
+point_presumption,General use,0.0,False,True
+point_path,General use,0.0,False,True
+point_knife,General use,0.0,False,True
+point_importance,General use,0.0,False,True
+point_handwriting,General use,0.0,False,True
+point_eye,General use,0.0,False,True
+point_discussion,General use,0.0,False,True
+point_course,General use,0.0,False,True
+point_case,General use,0.0,False,True
+point,Physical evidence,0.5728,False,False
+pockets,Clothing and personal items,0.3473,False,False
+pocket_mr_,Clothing and personal items,0.1296,False,False
+pocket_mr,General use,0.0,False,True
+pocket,Clothing and personal items,0.3473,False,False
+plymouth,Clothing and personal items,0.3628,False,False
+plural,Physical evidence,0.4147,False,False
+pleasure,Injuries and body parts,0.2305,False,False
+platform_figure,General use,0.0,False,True
+plates,Weapons and projectiles,0.7421,False,False
+plaster,Physical evidence,0.4146,False,False
+plants,Clothing and personal items,0.448,False,False
+planting,Clothing and personal items,0.448,False,False
+plant,Substances and poisons,0.4172,False,False
+plans,Detection and investigation terms,0.4465,False,False
+places,Physical evidence,0.4912,False,False
+place_hand,General use,0.0,False,True
+place,Detection and investigation terms,0.4853,False,False
+pity,Crime scene objects,0.3933,False,False
+pistols,Weapons and projectiles,0.8046,False,False
+pistol_table,General use,0.0,False,True
+pistol_pocket,General use,0.0,False,True
+pistol_head,General use,0.0,False,True
+pistol_hand,General use,0.0,False,True
+pistol_,Weapons and projectiles,0.5851,False,False
+pistol,Weapons and projectiles,0.8046,True,False
+pipes,Physical evidence,0.4584,False,False
+pipe_tobacco,General use,0.0,False,True
+pipe_pouch,General use,0.0,False,True
+pipe_mantelpiece,General use,0.0,False,True
+pipe_lips,General use,0.0,False,True
+pipe_lamp,General use,0.0,False,True
+pipe_feet,General use,0.0,False,True
+pipe_cigar_cigarette,General use,0.0,False,True
+pipe_cigar,General use,0.0,False,True
+pipe_chair,General use,0.0,False,True
+pipe,Clothing and personal items,0.7726,False,False
+pinch,Clothing and personal items,0.4108,False,False
+pile_papers,General use,0.0,False,True
+pile,Clothing and personal items,0.4523,False,False
+pieces,Crime scene objects,0.6618,False,False
+piece_paper,General use,0.0,False,True
+piece_evidence,General use,0.0,False,True
+piece_cardboard,General use,0.0,False,True
+piece,Crime scene objects,0.5123,False,False
+picture,Locations and environments,0.3278,False,False
+phrases,Physical evidence,0.4147,False,False
+phrase,Physical evidence,0.5728,False,False
+photograph,Physical evidence,0.2852,False,False
+peters,Clothing and personal items,0.324,False,False
+peter,Clothing and personal items,0.3978,False,False
+person,Crime scene objects,0.4097,False,False
+perpetrator,Locations and environments,0.3398,False,False
+permission_house,General use,0.0,False,True
+permission,Detection and investigation terms,0.4707,False,False
+performance,Detection and investigation terms,0.5695,False,False
+perception,Detection and investigation terms,0.5106,False,False
+people,Clothing and personal items,0.3383,False,False
+penknife,Weapons and projectiles,0.858,False,False
+pencils,Physical evidence,0.4053,False,False
+pencil,Crime scene objects,0.6618,False,False
+pen,Crime scene objects,0.6618,True,False
+pellet,Physical evidence,0.3805,False,False
+peculiarities,Physical evidence,0.4147,False,False
+peaty,Physical evidence,0.5125,False,False
+peat,Clothing and personal items,0.4176,False,False
+pearl,Clothing and personal items,0.249,False,False
+peace,Detection and investigation terms,0.3444,False,False
+pavement,Clothing and personal items,0.4169,False,False
+patients,Injuries and body parts,0.6459,False,False
+patient_man,General use,0.0,False,True
+patient,Injuries and body parts,0.6459,False,False
+patience,Locations and environments,0.2872,False,False
+pathway,Injuries and body parts,0.5531,False,False
+paths,Detection and investigation terms,0.3868,False,False
+pathology,Injuries and body parts,0.5155,False,False
+path_point,General use,0.0,False,True
+path_grass,General use,0.0,False,True
+path_garden,General use,0.0,False,True
+path,Physical evidence,0.397,False,False
+patches,Clothing and personal items,0.4222,False,False
+patch,Clothing and personal items,0.4222,False,False
+past,Physical evidence,0.4706,False,False
+passion,Physical evidence,0.4092,False,False
+passage,Physical evidence,0.5728,False,False
+party,Detection and investigation terms,0.4853,False,False
+particulars,Physical evidence,0.5728,False,False
+part,Crime scene objects,0.2307,False,False
+parliament,Detection and investigation terms,0.5123,False,False
+park,Clothing and personal items,0.3628,False,False
+paragraph,Physical evidence,0.5728,False,False
+papers_years,General use,0.0,False,True
+papers_table,General use,0.0,False,True
+papers_room,General use,0.0,False,True
+papers_others,General use,0.0,False,True
+papers_matter,General use,0.0,False,True
+papers_key,General use,0.0,False,True
+papers_hope,General use,0.0,False,True
+papers_hand,General use,0.0,False,True
+papers_door,General use,0.0,False,True
+papers_day,General use,0.0,False,True
+papers,Crime scene objects,0.6618,False,False
+paper_words,General use,0.0,False,True
+paper_way,General use,0.0,False,True
+paper_trace,General use,0.0,False,True
+paper_table,General use,0.0,False,True
+paper_pencil,General use,0.0,False,True
+paper_paragraph,General use,0.0,False,True
+paper_packet,General use,0.0,False,True
+paper_importance,General use,0.0,False,True
+paper_hand,General use,0.0,False,True
+paper_figures,General use,0.0,False,True
+paper_brass,General use,0.0,False,True
+paper__,Crime scene objects,0.3236,False,False
+paper,Crime scene objects,0.6618,False,False
+panel,Detection and investigation terms,0.6376,False,False
+palm,Clothing and personal items,0.502,False,False
+pair_glasses,General use,0.0,False,True
+pair,Clothing and personal items,0.4263,False,False
+pains,Injuries and body parts,0.5078,False,False
+page,Crime scene objects,0.5123,False,False
+packet,Physical evidence,0.4791,False,False
+pace,Clothing and personal items,0.4169,False,False
+owner,Detection and investigation terms,0.2951,False,False
+outset,Detection and investigation terms,0.5204,False,False
+outrages,Locations and environments,0.3398,False,False
+outrage,Crime scene objects,0.3949,False,False
+outline_footmark,General use,0.0,False,True
+outline,Physical evidence,0.5728,False,False
+outhouse,Clothing and personal items,0.4176,False,False
+others_figures,General use,0.0,False,True
+others,Detection and investigation terms,0.4126,False,False
+orders_letter,General use,0.0,False,True
+orders,Detection and investigation terms,0.3398,False,False
+order,Clothing and personal items,0.2957,False,False
+orchard,Clothing and personal items,0.4851,False,False
+opposite,Physical evidence,0.5818,False,False
+opportunity,Physical evidence,0.397,False,False
+opium,Substances and poisons,0.3997,True,False
+opinion_subject,General use,0.0,False,True
+opinion_point,General use,0.0,False,True
+opinion_case,General use,0.0,False,True
+opinion,Detection and investigation terms,0.423,False,False
+opening,Physical evidence,0.3176,False,False
+ones_system,General use,0.0,False,True
+ones,Clothing and personal items,0.3486,False,False
+one_purpose,General use,0.0,False,True
+one_inspector,General use,0.0,False,True
+one_information,General use,0.0,False,True
+one_bell,General use,0.0,False,True
+one,Physical evidence,0.4912,False,False
+olive,Clothing and personal items,0.4108,False,False
+official,Crime scene objects,0.6409,False,False
+offices_letter,General use,0.0,False,True
+officers,Detection and investigation terms,0.4707,False,False
+officer,Detection and investigation terms,0.4707,False,False
+office_city,General use,0.0,False,True
+office,Detection and investigation terms,0.2856,False,False
+odour,Substances and poisons,0.5259,False,False
+oclock,Locations and environments,0.2005,False,False
+occurrence,Injuries and body parts,0.5011,False,False
+occasion_marriage,General use,0.0,False,True
+occasion,Crime scene objects,0.3933,False,False
+observer,Detection and investigation terms,0.5057,False,False
+observations,Physical evidence,0.4847,False,False
+observation_inference,General use,0.0,False,True
+observation_analysis,General use,0.0,False,True
+observation,Physical evidence,0.5728,False,False
+objection,Detection and investigation terms,0.5212,False,False
+object_scandal,General use,0.0,False,True
+object,Physical evidence,0.3478,False,False
+oaths,Detection and investigation terms,0.4486,False,False
+oath,Detection and investigation terms,0.4486,False,False
+oaks,Clothing and personal items,0.3628,False,False
+nutshell,Physical evidence,0.5728,False,False
+nut,Clothing and personal items,0.4872,False,False
+number_cab,General use,0.0,False,True
+number,Physical evidence,0.6391,False,False
+notion,Detection and investigation terms,0.5212,False,False
+notice,Detection and investigation terms,0.4707,False,False
+notes,Crime scene objects,0.3973,False,False
+notebooks,Clothing and personal items,0.2028,False,False
+notebook,Clothing and personal items,0.2028,False,False
+note_hand,General use,0.0,False,True
+note,Physical evidence,0.5728,False,False
+nose,Injuries and body parts,0.395,False,False
+norwood,Substances and poisons,0.198,False,False
+north,Clothing and personal items,0.4232,False,False
+norfolk,Clothing and personal items,0.3628,False,False
+nonsense,Physical evidence,0.4334,False,False
+none_papers,General use,0.0,False,True
+none_man,General use,0.0,False,True
+none,Physical evidence,0.4706,False,False
+nights,Clothing and personal items,0.3078,False,False
+night_wind,General use,0.0,False,True
+night_telegram,General use,0.0,False,True
+night_papers,General use,0.0,False,True
+night_paper,General use,0.0,False,True
+night_name,General use,0.0,False,True
+night_lawn,General use,0.0,False,True
+night_hut,General use,0.0,False,True
+night_hand,General use,0.0,False,True
+night_face,General use,0.0,False,True
+night,Physical evidence,0.4912,False,False
+nicotine,Physical evidence,0.6313,False,False
+niagara,Clothing and personal items,0.3628,False,False
+newspapers,Crime scene objects,0.6618,False,False
+newspaper_table,General use,0.0,False,True
+newspaper,Crime scene objects,0.6618,False,False
+news_morning,General use,0.0,False,True
+news_agencies,General use,0.0,False,True
+news,Crime scene objects,0.5123,False,False
+net_round,General use,0.0,False,True
+nerves_steel,General use,0.0,False,True
+nerves,Injuries and body parts,0.6878,False,False
+nerve_body,General use,0.0,False,True
+nerve,Injuries and body parts,0.6878,False,False
+neighbours,Clothing and personal items,0.3383,False,False
+neighbourhood,Clothing and personal items,0.3263,False,False
+neck,Injuries and body parts,0.5078,False,False
+necessity,Detection and investigation terms,0.5212,False,False
+navy,Clothing and personal items,0.4581,False,False
+nature_study,General use,0.0,False,True
+nature,Physical evidence,0.3546,False,False
+narrative,Locations and environments,0.2607,False,False
+naples,Clothing and personal items,0.3181,False,False
+names,Physical evidence,0.2275,False,False
+name_way,General use,0.0,False,True
+name_name,General use,0.0,False,True
+name_facts,General use,0.0,False,True
+name_connection,General use,0.0,False,True
+name_address,General use,0.0,False,True
+name__,Clothing and personal items,0.2721,False,False
+name,Crime scene objects,0.439,False,False
+nails,Injuries and body parts,0.4882,False,False
+mystery,Locations and environments,0.2607,False,False
+muzzle,Weapons and projectiles,0.8046,False,False
+musket,Weapons and projectiles,0.8046,False,False
+muscles,Injuries and body parts,0.5078,False,False
+murderers,Locations and environments,0.5878,False,False
+murderer,Locations and environments,0.4877,False,False
+murder_murder,General use,0.0,False,True
+murder_man,General use,0.0,False,True
+murder,Locations and environments,0.6337,False,False
+mud,Clothing and personal items,0.4176,False,False
+mrs_hudson,General use,0.0,False,True
+mrs,Clothing and personal items,0.3978,False,False
+mr_lestrade,General use,0.0,False,True
+mr_joseph,General use,0.0,False,True
+mr_gregson,General use,0.0,False,True
+mr__,Clothing and personal items,0.2734,False,False
+mr_,Clothing and personal items,0.3441,False,False
+mr,Clothing and personal items,0.3978,False,False
+mouth_eye,General use,0.0,False,True
+mouth,Injuries and body parts,0.395,False,False
+mountains,Clothing and personal items,0.3761,False,False
+motives_actions,General use,0.0,False,True
+motives,Detection and investigation terms,0.5212,False,False
+motive_crime,General use,0.0,False,True
+motive,Detection and investigation terms,0.5212,False,False
+mother,Crime scene objects,0.3385,False,False
+mortimer,Clothing and personal items,0.2362,False,False
+morning_post__,Clothing and personal items,0.1296,False,False
+morning_post,General use,0.0,False,True
+morning_letter,General use,0.0,False,True
+morning_investigation,General use,0.0,False,True
+morning_interview,General use,0.0,False,True
+morning_instructions,General use,0.0,False,True
+morning_face,General use,0.0,False,True
+morning_cell,General use,0.0,False,True
+morning,Crime scene objects,0.3385,False,False
+moriarty,Substances and poisons,0.1409,False,False
+moran,Clothing and personal items,0.2892,False,False
+moor_sheep,General use,0.0,False,True
+moor,Clothing and personal items,0.2692,False,False
+moon,Physical evidence,0.1802,False,False
+months,Clothing and personal items,0.1759,False,False
+month,Crime scene objects,0.274,False,False
+monograph_subject,General use,0.0,False,True
+monograph,Crime scene objects,0.3691,False,False
+money_idea,General use,0.0,False,True
+money,Detection and investigation terms,0.4129,False,False
+monday_night,General use,0.0,False,True
+monday,Clothing and personal items,0.3759,False,False
+moment_face,General use,0.0,False,True
+moment,Crime scene objects,0.3385,False,False
+mixture,Physical evidence,0.4802,False,False
+mistress,Clothing and personal items,0.169,False,False
+mistake,Physical evidence,0.4236,False,False
+miss,Clothing and personal items,0.385,False,False
+misfortune,Weapons and projectiles,0.3316,False,False
+mire,Detection and investigation terms,0.3672,False,False
+minutes_mr_,Clothing and personal items,0.1296,False,False
+minutes,Clothing and personal items,0.1759,False,False
+minute,Detection and investigation terms,0.4953,False,False
+mines,Physical evidence,0.4584,False,False
+mine,Clothing and personal items,0.385,False,False
+minds,Physical evidence,0.3546,False,False
+mind_pipe,General use,0.0,False,True
+mind_heart,General use,0.0,False,True
+mind_ease,General use,0.0,False,True
+mind,Clothing and personal items,0.4311,False,False
+milk,Clothing and personal items,0.4872,False,False
+miles,Physical evidence,0.401,False,False
+mile,Clothing and personal items,0.2845,False,False
+middle,Physical evidence,0.4547,False,False
+methods,Physical evidence,0.4213,False,False
+metal,Physical evidence,0.4584,False,False
+message,Physical evidence,0.4661,False,False
+mess,Clothing and personal items,0.4523,False,False
+merits,Detection and investigation terms,0.5802,False,False
+merit,Detection and investigation terms,0.5802,False,False
+mercy,Locations and environments,0.2872,False,False
+merchant,Detection and investigation terms,0.3398,False,False
+mens,Clothing and personal items,0.4681,False,False
+men_garden,General use,0.0,False,True
+men_blood,General use,0.0,False,True
+men,Locations and environments,0.3268,False,False
+memory_occasion,General use,0.0,False,True
+memory,Clothing and personal items,0.2617,False,False
+memorandum,Crime scene objects,0.6409,False,False
+members,Detection and investigation terms,0.6376,False,False
+meeting,Crime scene objects,0.6409,False,False
+meat,Clothing and personal items,0.5099,False,False
+measures,Physical evidence,0.5156,False,False
+measurement,Physical evidence,0.5954,False,False
+measure,Physical evidence,0.4916,False,False
+meantime,Clothing and personal items,0.4149,False,False
+means,Physical evidence,0.5913,False,False
+meaning,Physical evidence,0.5728,False,False
+meals,Clothing and personal items,0.4395,False,False
+meal,Clothing and personal items,0.5099,False,False
+md,Clothing and personal items,0.3628,False,False
+matters_place,General use,0.0,False,True
+matters_doubt,General use,0.0,False,True
+matters_case,General use,0.0,False,True
+matters,Detection and investigation terms,0.4299,False,False
+matter_word,General use,0.0,False,True
+matter_sight,General use,0.0,False,True
+matter_point,General use,0.0,False,True
+matter_pipe,General use,0.0,False,True
+matter_mistake,General use,0.0,False,True
+matter_inquiry,General use,0.0,False,True
+matter_importance,General use,0.0,False,True
+matter_hand,General use,0.0,False,True
+matter_evidence,General use,0.0,False,True
+matter,Physical evidence,0.4912,False,False
+material,Physical evidence,0.5251,False,False
+match,Detection and investigation terms,0.3485,False,False
+mastery,Detection and investigation terms,0.3131,False,False
+master,Detection and investigation terms,0.39,False,False
+mass_metal,General use,0.0,False,True
+mask_face,General use,0.0,False,True
+mask,Injuries and body parts,0.4882,False,False
+mary,Clothing and personal items,0.3978,False,False
+martin,Clothing and personal items,0.3978,False,False
+marriage,Detection and investigation terms,0.3388,False,False
+marks_grass_side,General use,0.0,False,True
+marks_grass,General use,0.0,False,True
+marks,Detection and investigation terms,0.3977,False,False
+mark_,Clothing and personal items,0.3441,False,False
+mark,Clothing and personal items,0.3978,False,False
+manuscript,Physical evidence,0.2771,False,False
+mantelpiece,Clothing and personal items,0.2265,False,False
+mans_face,General use,0.0,False,True
+mans_brain,General use,0.0,False,True
+mans,Clothing and personal items,0.3591,False,False
+manner_feeling,General use,0.0,False,True
+manner,Physical evidence,0.5913,False,False
+manifestations,Injuries and body parts,0.5964,False,False
+manager,Crime scene objects,0.2564,False,False
+man_violence,General use,0.0,False,True
+man_statement,General use,0.0,False,True
+man_sight,General use,0.0,False,True
+man_revolver,General use,0.0,False,True
+man_rest,General use,0.0,False,True
+man_pistol,General use,0.0,False,True
+man_murder,General use,0.0,False,True
+man_iron,General use,0.0,False,True
+man_inspector,General use,0.0,False,True
+man_information,General use,0.0,False,True
+man_heart,General use,0.0,False,True
+man_habits,General use,0.0,False,True
+man_face,General use,0.0,False,True
+man_errand,General use,0.0,False,True
+man_danger,General use,0.0,False,True
+man_crime,General use,0.0,False,True
+man_constitution,General use,0.0,False,True
+man_command,General use,0.0,False,True
+man_child,General use,0.0,False,True
+man_antecedents,General use,0.0,False,True
+man_,Locations and environments,0.3361,False,False
+man,Locations and environments,0.5392,False,False
+major,Physical evidence,0.3176,False,False
+maid_telegram,General use,0.0,False,True
+maid,Clothing and personal items,0.2033,False,False
+magistrates,Detection and investigation terms,0.6376,False,False
+madam,Crime scene objects,0.1663,False,False
+machinery,Detection and investigation terms,0.3868,False,False
+machine,Physical evidence,0.3547,False,False
+lyons,Clothing and personal items,0.2738,False,False
+lungs,Injuries and body parts,0.6544,False,False
+lunch,Clothing and personal items,0.3078,False,False
+lucy,Clothing and personal items,0.2968,False,False
+luck_inquiry,General use,0.0,False,True
+luck,Physical evidence,0.4912,False,False
+lucas,Clothing and personal items,0.2692,False,False
+love,Clothing and personal items,0.3679,False,False
+louis,Clothing and personal items,0.4681,False,False
+lot,Physical evidence,0.4912,False,False
+loss_blood,General use,0.0,False,True
+loss,Physical evidence,0.4259,False,False
+lord,Clothing and personal items,0.3389,False,False
+look_face,General use,0.0,False,True
+look,Physical evidence,0.4912,False,False
+london_london,General use,0.0,False,True
+london_hotel,General use,0.0,False,True
+london__,Clothing and personal items,0.2734,False,False
+london,Clothing and personal items,0.3978,False,False
+lodgings,Crime scene objects,0.0759,False,False
+lodger,Clothing and personal items,0.129,False,False
+lodge,Clothing and personal items,0.3628,False,False
+lock_way,General use,0.0,False,True
+lock_time,General use,0.0,False,True
+lock_door,General use,0.0,False,True
+lock,Weapons and projectiles,0.858,False,False
+loaf,Clothing and personal items,0.4633,False,False
+lives,Detection and investigation terms,0.3444,False,False
+liverpool,Substances and poisons,0.0947,False,False
+literature,Crime scene objects,0.3691,False,False
+list,Detection and investigation terms,0.3762,False,False
+lisp,Physical evidence,0.1658,False,False
+liquid,Physical evidence,0.4802,False,False
+lips_heart,General use,0.0,False,True
+lips_face,General use,0.0,False,True
+lips,Injuries and body parts,0.395,False,False
+lip,Injuries and body parts,0.4882,False,False
+link_chain,General use,0.0,False,True
+link,Crime scene objects,0.5123,False,False
+lining_hat,General use,0.0,False,True
+lines,Detection and investigation terms,0.3868,False,False
+line_teeth,General use,0.0,False,True
+line_investigation,General use,0.0,False,True
+line,Physical evidence,0.488,False,False
+limb,Injuries and body parts,0.6878,False,False
+lights_windows,General use,0.0,False,True
+light_windows,General use,0.0,False,True
+light_eye,General use,0.0,False,True
+light,Weapons and projectiles,0.348,False,False
+life_power,General use,0.0,False,True
+life,Detection and investigation terms,0.3444,False,False
+libraries,Physical evidence,0.1658,False,False
+liberties,Detection and investigation terms,0.401,False,False
+letters_word,General use,0.0,False,True
+letters_papers,General use,0.0,False,True
+letters_matter,General use,0.0,False,True
+letters,Crime scene objects,0.6618,False,False
+letter_step,General use,0.0,False,True
+letter_sir,General use,0.0,False,True
+letter_question,General use,0.0,False,True
+letter_postscript,General use,0.0,False,True
+letter_pocket,General use,0.0,False,True
+letter_note,General use,0.0,False,True
+letter_mr,General use,0.0,False,True
+letter_morning,General use,0.0,False,True
+letter_matter,General use,0.0,False,True
+letter_lord,General use,0.0,False,True
+letter_letter_letter,General use,0.0,False,True
+letter_letter,General use,0.0,False,True
+letter_hand,General use,0.0,False,True
+letter_gentleman,General use,0.0,False,True
+letter_father,General use,0.0,False,True
+letter_breach,General use,0.0,False,True
+letter_appointment,General use,0.0,False,True
+letter_,Crime scene objects,0.4477,False,False
+letter,Crime scene objects,0.6038,True,False
+lestrade_scotland_yard,General use,0.0,False,True
+lestrade,Locations and environments,0.1048,False,False
+lessons,Physical evidence,0.214,False,False
+lesson,Crime scene objects,0.3691,False,False
+lens,Physical evidence,0.3195,False,False
+length,Physical evidence,0.4128,False,False
+legs,Injuries and body parts,0.2866,False,False
+leg,Injuries and body parts,0.2866,False,False
+left,Clothing and personal items,0.385,False,False
+lee,Clothing and personal items,0.3978,False,False
+league,Physical evidence,0.223,False,False
+layer_dust,General use,0.0,False,True
+layer,Physical evidence,0.4937,False,False
+lawn_windows,General use,0.0,False,True
+lawn_window,General use,0.0,False,True
+lawn_room,General use,0.0,False,True
+lawn_garden,General use,0.0,False,True
+lawn_front,General use,0.0,False,True
+lawn,Substances and poisons,0.4172,False,False
+law,Detection and investigation terms,0.4393,False,False
+laugh,Clothing and personal items,0.2644,False,False
+lantern,Clothing and personal items,0.1836,False,False
+languages,Physical evidence,0.4147,False,False
+language,Physical evidence,0.4147,False,False
+lane,Clothing and personal items,0.3379,False,False
+landlady,Locations and environments,0.1404,False,False
+land,Clothing and personal items,0.3857,False,False
+lancaster,Clothing and personal items,0.3628,False,False
+lamp,Weapons and projectiles,0.348,False,False
+lake,Clothing and personal items,0.1874,False,False
+ladys,Substances and poisons,0.1984,False,False
+lady,Clothing and personal items,0.3174,False,False
+ladies,Clothing and personal items,0.2696,False,False
+lad,Clothing and personal items,0.3185,False,False
+labyrinth_streets,General use,0.0,False,True
+labyrinth_house,General use,0.0,False,True
+laboratory,Detection and investigation terms,0.5061,False,False
+knowledge,Detection and investigation terms,0.4521,False,False
+knives,Weapons and projectiles,0.7421,False,False
+knife_throat,General use,0.0,False,True
+knife_hand,General use,0.0,False,True
+knife,Weapons and projectiles,0.858,True,False
+knees,Injuries and body parts,0.2866,False,False
+knee,Injuries and body parts,0.3412,False,False
+kitchen,Clothing and personal items,0.4526,False,False
+king,Clothing and personal items,0.3389,False,False
+kindness,Locations and environments,0.2872,False,False
+kind,Physical evidence,0.4912,False,False
+keys,Clothing and personal items,0.4169,False,False
+key,Detection and investigation terms,0.4624,False,False
+justice,Detection and investigation terms,0.5123,False,False
+jury,Detection and investigation terms,0.4183,False,False
+june,Clothing and personal items,0.3978,False,False
+judgment,Detection and investigation terms,0.5106,False,False
+judge,Detection and investigation terms,0.6376,True,False
+joy,Locations and environments,0.2872,False,False
+journey,Detection and investigation terms,0.3444,False,False
+joke,Crime scene objects,0.439,False,False
+john,Clothing and personal items,0.3978,False,False
+job,Detection and investigation terms,0.3376,False,False
+jimmy,Clothing and personal items,0.3978,False,False
+jim,Clothing and personal items,0.3978,False,False
+jewels,Clothing and personal items,0.254,False,False
+jest,Crime scene objects,0.439,False,False
+jefferson_hope,General use,0.0,False,True
+jefferson,Clothing and personal items,0.3628,False,False
+james,Clothing and personal items,0.3978,False,False
+jackson,Clothing and personal items,0.3978,False,False
+jack,Clothing and personal items,0.3978,False,False
+issue,Crime scene objects,0.5123,False,False
+isle,Clothing and personal items,0.3181,False,False
+irregularity,Physical evidence,0.4575,False,False
+iron,Physical evidence,0.4584,False,False
+investigation_case,General use,0.0,False,True
+investigation,Detection and investigation terms,0.5493,False,False
+invaders,Weapons and projectiles,0.4471,False,False
+introduction,Physical evidence,0.5728,False,False
+interview_end,General use,0.0,False,True
+interview,Crime scene objects,0.3316,False,False
+intervals,Physical evidence,0.4522,False,False
+interval,Physical evidence,0.4522,False,False
+interpreter,Physical evidence,0.1658,False,False
+interpretation,Physical evidence,0.5728,False,False
+interest_letter,General use,0.0,False,True
+interest_face,General use,0.0,False,True
+interest,Physical evidence,0.6391,False,False
+intention_day,General use,0.0,False,True
+intention,Detection and investigation terms,0.5414,False,False
+intent,Detection and investigation terms,0.5414,False,False
+intensity_face,General use,0.0,False,True
+insult,Physical evidence,0.3694,False,False
+instructions,Clothing and personal items,0.2731,False,False
+instant,Crime scene objects,0.2733,False,False
+instance,Physical evidence,0.5728,False,False
+inspector_way,General use,0.0,False,True
+inspector_matter,General use,0.0,False,True
+inspector_charge,General use,0.0,False,True
+inspector_case,General use,0.0,False,True
+inspector,Detection and investigation terms,0.3446,False,False
+inspection,Detection and investigation terms,0.5061,False,False
+inside,Injuries and body parts,0.395,False,False
+inquiry_order,General use,0.0,False,True
+inquiry_man,General use,0.0,False,True
+inquiry_foot,General use,0.0,False,True
+inquiry_facts,General use,0.0,False,True
+inquiry,Detection and investigation terms,0.5493,False,False
+inquiries,Detection and investigation terms,0.4838,False,False
+inn,Clothing and personal items,0.3628,False,False
+ink,Physical evidence,0.4053,True,False
+initials,Weapons and projectiles,0.1925,False,False
+information_police,General use,0.0,False,True
+information_lady,General use,0.0,False,True
+information,Crime scene objects,0.6409,False,False
+influence,Physical evidence,0.525,False,False
+inferences,Detection and investigation terms,0.369,False,False
+inference,Physical evidence,0.4438,False,False
+indoors_day,General use,0.0,False,True
+individuals,Physical evidence,0.5694,False,False
+indications,Physical evidence,0.5301,False,False
+indication,Physical evidence,0.5954,False,False
+india,Clothing and personal items,0.2998,False,False
+index,Physical evidence,0.5954,False,False
+indentation,Physical evidence,0.3149,False,False
+incident_mind,General use,0.0,False,True
+incident_impression_mind,General use,0.0,False,True
+incident_impression,General use,0.0,False,True
+incident_day,General use,0.0,False,True
+incident,Detection and investigation terms,0.5493,False,False
+incessant,Physical evidence,0.2904,False,False
+inaction,Detection and investigation terms,0.3711,False,False
+impunity,Locations and environments,0.3588,False,False
+improvement,Detection and investigation terms,0.5695,False,False
+impression_mind,General use,0.0,False,True
+impression_deformity,General use,0.0,False,True
+impression,Detection and investigation terms,0.5497,False,False
+impossibility,Detection and investigation terms,0.5212,False,False
+importance,Physical evidence,0.5156,False,False
+illness,Injuries and body parts,0.6459,False,False
+idiot,Clothing and personal items,0.3695,False,False
+identity,Detection and investigation terms,0.3511,False,False
+idea,Physical evidence,0.5728,False,False
+hypothesis,Physical evidence,0.5954,False,False
+hut,Clothing and personal items,0.7726,False,False
+husband,Clothing and personal items,0.4223,False,False
+hunter,Weapons and projectiles,0.2591,False,False
+hum,Crime scene objects,0.1663,False,False
+hugo,Clothing and personal items,0.2692,False,False
+hugh,Clothing and personal items,0.3978,False,False
+hudson,Clothing and personal items,0.3978,False,False
+houses_parliament,General use,0.0,False,True
+houses,Detection and investigation terms,0.1729,False,False
+housekeeper,Detection and investigation terms,0.1376,False,False
+household,Physical evidence,0.3736,False,False
+house_windows,General use,0.0,False,True
+house_garden,General use,0.0,False,True
+house_furniture,General use,0.0,False,True
+house,Detection and investigation terms,0.4129,False,False
+hours_drive,General use,0.0,False,True
+hours,Clothing and personal items,0.1759,False,False
+hour,Clothing and personal items,0.1759,False,False
+hound,Clothing and personal items,0.248,False,False
+hotel,Clothing and personal items,0.3951,False,False
+hospital,Injuries and body parts,0.5898,False,False
+horses,Clothing and personal items,0.3975,False,False
+horse_trap,General use,0.0,False,True
+horse,Clothing and personal items,0.5216,False,False
+horror,Locations and environments,0.5036,False,False
+hopkins,Clothing and personal items,0.3042,False,False
+hopes,Detection and investigation terms,0.3811,False,False
+hope,Clothing and personal items,0.3679,False,False
+honours,Detection and investigation terms,0.3484,False,False
+honour_money,General use,0.0,False,True
+honour,Detection and investigation terms,0.3474,False,False
+home,Crime scene objects,0.3009,False,False
+hollow_hand,General use,0.0,False,True
+hollow,Clothing and personal items,0.7726,False,False
+hole,Clothing and personal items,0.3809,False,False
+holder,Crime scene objects,0.3259,False,False
+history,Clothing and personal items,0.4581,False,False
+hill,Clothing and personal items,0.3978,False,False
+hidingplace,General use,0.0,False,True
+henry,Clothing and personal items,0.3978,False,False
+help,Physical evidence,0.525,False,False
+heir,Locations and environments,0.3034,False,False
+height,Physical evidence,0.4128,False,False
+heels,Clothing and personal items,0.1941,False,False
+heavens,Physical evidence,0.3124,False,False
+heaven,Locations and environments,0.2872,False,False
+heath,Clothing and personal items,0.3978,False,False
+heartit_heart,General use,0.0,False,True
+heart_trouble,General use,0.0,False,True
+heart_thought,General use,0.0,False,True
+heart_s,General use,0.0,False,True
+heart_one,General use,0.0,False,True
+heart_mouth,General use,0.0,False,True
+heart_hope,General use,0.0,False,True
+heart_hands,General use,0.0,False,True
+heart_disease,General use,0.0,False,True
+heart,Injuries and body parts,0.6459,False,False
+health_time,General use,0.0,False,True
+health_matter,General use,0.0,False,True
+health,Injuries and body parts,0.6459,False,False
+heads,Clothing and personal items,0.3398,False,False
+headlines,Crime scene objects,0.5123,False,False
+headache,Substances and poisons,0.419,False,False
+head_hand,General use,0.0,False,True
+head_face,General use,0.0,False,True
+head_expression,General use,0.0,False,True
+head,Injuries and body parts,0.395,False,False
+hatred,Physical evidence,0.314,False,False
+hate,Clothing and personal items,0.3679,False,False
+hat_stick,General use,0.0,False,True
+hat_mr,General use,0.0,False,True
+hat_man,General use,0.0,False,True
+hat_head,General use,0.0,False,True
+hat_eyes,General use,0.0,False,True
+hat,Clothing and personal items,0.7726,True,False
+harvest,Clothing and personal items,0.4701,False,False
+harry,Clothing and personal items,0.3978,False,False
+harm,Physical evidence,0.4974,False,False
+hansom,Substances and poisons,0.1472,False,False
+handwriting,Physical evidence,0.4046,True,False
+hands_letter,General use,0.0,False,True
+hands_blood,General use,0.0,False,True
+hands,Injuries and body parts,0.2866,False,False
+handkerchief_way,General use,0.0,False,True
+handkerchief_round,General use,0.0,False,True
+handkerchief_hand,General use,0.0,False,True
+handkerchief,Clothing and personal items,0.7726,True,False
+hand_word,General use,0.0,False,True
+hand_weapon,General use,0.0,False,True
+hand_time,General use,0.0,False,True
+hand_throat,General use,0.0,False,True
+hand_thought,General use,0.0,False,True
+hand_thing,General use,0.0,False,True
+hand_sleeve,General use,0.0,False,True
+hand_side,General use,0.0,False,True
+hand_room,General use,0.0,False,True
+hand_revolver,General use,0.0,False,True
+hand_pistol,General use,0.0,False,True
+hand_one,General use,0.0,False,True
+hand_miss,General use,0.0,False,True
+hand_matter,General use,0.0,False,True
+hand_lord,General use,0.0,False,True
+hand_knife,General use,0.0,False,True
+hand_heart,General use,0.0,False,True
+hand_hand,General use,0.0,False,True
+hand_eyes,General use,0.0,False,True
+hand_evidence,General use,0.0,False,True
+hand_doubt,General use,0.0,False,True
+hand_door,General use,0.0,False,True
+hand,Weapons and projectiles,0.858,False,False
+hampshire,Clothing and personal items,0.3628,False,False
+hammer,Weapons and projectiles,0.858,False,False
+halt,Locations and environments,0.4178,False,False
+halloa_,Clothing and personal items,0.1296,False,False
+halloa,General use,0.0,False,True
+hall_door,General use,0.0,False,True
+hall,Detection and investigation terms,0.4853,False,False
+halfsheet_paper,General use,0.0,False,True
+half,Physical evidence,0.3631,False,False
+hair_face,General use,0.0,False,True
+hair_eyes,General use,0.0,False,True
+hair_colour,General use,0.0,False,True
+hair_beard,General use,0.0,False,True
+hair,Injuries and body parts,0.4882,True,False
+habits_years,General use,0.0,False,True
+habits_house,General use,0.0,False,True
+habits,Physical evidence,0.4636,False,False
+habit,Physical evidence,0.4636,False,False
+guns,Weapons and projectiles,0.8046,False,False
+gun,Weapons and projectiles,0.8046,False,False
+gum,Physical evidence,0.4225,False,False
+guidance,Detection and investigation terms,0.5061,False,False
+guess,Clothing and personal items,0.4523,False,False
+guard,Weapons and projectiles,0.4847,False,False
+grove,Clothing and personal items,0.3628,False,False
+grounds,Detection and investigation terms,0.4853,False,False
+ground,Clothing and personal items,0.3554,False,False
+grip,Weapons and projectiles,0.858,False,False
+grey,Clothing and personal items,0.4263,False,False
+gregson_scotland,General use,0.0,False,True
+gregson_lestrade,General use,0.0,False,True
+gregson,Locations and environments,0.0675,False,False
+green,Clothing and personal items,0.502,False,False
+greek_interpreter,General use,0.0,False,True
+gravel,Clothing and personal items,0.4176,False,False
+grave,Weapons and projectiles,0.3575,False,False
+gratitude,Crime scene objects,0.3933,False,False
+grasses,Clothing and personal items,0.448,False,False
+grass_side,General use,0.0,False,True
+grass_plot,General use,0.0,False,True
+grass_path,General use,0.0,False,True
+grass_feet,General use,0.0,False,True
+grass,Clothing and personal items,0.7726,False,False
+grains,Clothing and personal items,0.5375,False,False
+grain,Clothing and personal items,0.5375,False,False
+grace,Locations and environments,0.2872,False,False
+government,Detection and investigation terms,0.3772,False,False
+goodevening_mr,General use,0.0,False,True
+goodbye,Crime scene objects,0.3385,False,False
+good,Physical evidence,0.4912,False,False
+golf,Clothing and personal items,0.3628,False,False
+gold_fields,General use,0.0,False,True
+gold,Clothing and personal items,0.249,False,False
+gods,Physical evidence,0.3546,False,False
+godfrey,Substances and poisons,0.0858,False,False
+god_judge,General use,0.0,False,True
+god,Clothing and personal items,0.2046,False,False
+gloves_shoes,General use,0.0,False,True
+gloves,Weapons and projectiles,0.7421,False,False
+glove,Weapons and projectiles,0.858,True,False
+gloss,Physical evidence,0.4146,False,False
+gloom,Substances and poisons,0.2919,False,False
+glimpse_face,General use,0.0,False,True
+glimpse,Clothing and personal items,0.254,False,False
+gleam,Substances and poisons,0.1014,False,False
+glasses,Clothing and personal items,0.3213,False,False
+glass,Clothing and personal items,0.1616,False,False
+glance,Clothing and personal items,0.2092,False,False
+girl_face,General use,0.0,False,True
+girl,Clothing and personal items,0.2542,False,False
+gesture,Crime scene objects,0.3933,False,False
+german,Crime scene objects,0.3226,False,False
+george,Clothing and personal items,0.3978,False,False
+gentlemen,Crime scene objects,0.3127,False,False
+gentleman_hat,General use,0.0,False,True
+gentleman,Crime scene objects,0.3127,False,False
+genius_way,General use,0.0,False,True
+genius,Clothing and personal items,0.3695,False,False
+generosity,Crime scene objects,0.3933,False,False
+generation,Detection and investigation terms,0.4603,False,False
+general,Physical evidence,0.5728,False,False
+gems,Clothing and personal items,0.254,False,False
+gathering,Clothing and personal items,0.4701,False,False
+gateway,Clothing and personal items,0.1713,False,False
+gates,Detection and investigation terms,0.3868,False,False
+gate_garden,General use,0.0,False,True
+gate,Weapons and projectiles,0.348,False,False
+gas,Physical evidence,0.4768,False,False
+garret,Substances and poisons,0.1868,False,False
+gardens,Substances and poisons,0.2222,False,False
+garden_window,General use,0.0,False,True
+garden_wall,General use,0.0,False,True
+garden_walk,General use,0.0,False,True
+garden_path,General use,0.0,False,True
+garden_night,General use,0.0,False,True
+garden_house,General use,0.0,False,True
+garden_gate,General use,0.0,False,True
+garden_attention,General use,0.0,False,True
+garden,Clothing and personal items,0.502,False,False
+garcia,Clothing and personal items,0.1802,False,False
+gangs,Substances and poisons,0.3997,False,False
+gang,Crime scene objects,0.3864,False,False
+game_word,General use,0.0,False,True
+game_point,General use,0.0,False,True
+game,Physical evidence,0.4912,False,False
+future,Detection and investigation terms,0.4624,False,False
+furniture_room,General use,0.0,False,True
+furniture,Crime scene objects,0.5128,True,False
+fumes,Substances and poisons,0.6345,False,False
+fugitives,Locations and environments,0.5878,False,False
+fruits,Clothing and personal items,0.4395,False,False
+front,Physical evidence,0.4547,False,False
+fringe_grass,General use,0.0,False,True
+friends,Detection and investigation terms,0.2825,False,False
+friend_information,General use,0.0,False,True
+friend,Clothing and personal items,0.3012,False,False
+frank,Clothing and personal items,0.3759,False,False
+fortunes,Detection and investigation terms,0.3523,False,False
+fortune,Detection and investigation terms,0.4129,False,False
+forrester,Substances and poisons,0.1551,False,False
+forms,Physical evidence,0.6605,False,False
+form,Physical evidence,0.5728,False,False
+forgery_case,General use,0.0,False,True
+foresight,Detection and investigation terms,0.5106,False,False
+forehead,Injuries and body parts,0.2866,False,False
+force,Weapons and projectiles,0.4847,False,False
+footsteps,Locations and environments,0.2722,False,False
+footmarks,General use,0.0,False,True
+foot,Injuries and body parts,0.3412,False,False
+foolscap_paper,General use,0.0,False,True
+food,Clothing and personal items,0.5099,False,False
+folk,Clothing and personal items,0.3383,False,False
+foil,Crime scene objects,0.6618,False,False
+fog,Weapons and projectiles,0.348,False,False
+foaming,Physical evidence,0.39,False,False
+fluid,Injuries and body parts,0.6878,False,False
+flow,Physical evidence,0.5548,False,False
+floor_blood,General use,0.0,False,True
+floor,Physical evidence,0.4547,False,False
+flint,Weapons and projectiles,0.7421,False,False
+flight,Clothing and personal items,0.3951,False,False
+flesh_blood,General use,0.0,False,True
+flesh,Clothing and personal items,0.5099,False,False
+flash,Clothing and personal items,0.3159,False,False
+flag,Clothing and personal items,0.4581,False,False
+fit,Physical evidence,0.3803,False,False
+fire,Locations and environments,0.5392,False,False
+finish,Physical evidence,0.4146,False,False
+fingers,Injuries and body parts,0.2866,False,False
+finger,Clothing and personal items,0.3138,False,False
+figures,Detection and investigation terms,0.3796,False,False
+figure,Physical evidence,0.401,False,False
+fields_road,General use,0.0,False,True
+fields,Clothing and personal items,0.448,False,False
+field_inquiry_man,General use,0.0,False,True
+field_inquiry,General use,0.0,False,True
+field,Clothing and personal items,0.4662,False,False
+fever,Substances and poisons,0.4861,False,False
+ferrier,Substances and poisons,0.0929,False,False
+fellows,Detection and investigation terms,0.2825,False,False
+fellow_house,General use,0.0,False,True
+fellow,Detection and investigation terms,0.3474,False,False
+feet_garden,General use,0.0,False,True
+feet,Injuries and body parts,0.2866,False,False
+feelings,Physical evidence,0.3373,False,False
+feeling,Clothing and personal items,0.385,False,False
+features_interest,General use,0.0,False,True
+features_face,General use,0.0,False,True
+features_deductions,General use,0.0,False,True
+features,Physical evidence,0.4363,False,False
+feature_interest,General use,0.0,False,True
+fears,Physical evidence,0.3373,False,False
+fear,Physical evidence,0.3373,False,False
+favour_theory,General use,0.0,False,True
+favour,Detection and investigation terms,0.5204,False,False
+fault,Detection and investigation terms,0.4267,False,False
+fathers_place,General use,0.0,False,True
+fathers,Clothing and personal items,0.2679,False,False
+father_years,General use,0.0,False,True
+father,Clothing and personal items,0.4223,False,False
+fate,Detection and investigation terms,0.3444,False,False
+fashion,Clothing and personal items,0.4263,False,False
+farmhouse,Crime scene objects,0.5128,False,False
+farmer,Clothing and personal items,0.4223,False,False
+farm,Clothing and personal items,0.3857,False,False
+farewell,Crime scene objects,0.6038,False,False
+fancy,Clothing and personal items,0.4426,False,False
+fan,Clothing and personal items,0.3679,False,False
+family,Detection and investigation terms,0.2825,False,False
+fall,Clothing and personal items,0.376,False,False
+faith,Detection and investigation terms,0.3444,False,False
+failures,Physical evidence,0.4236,False,False
+facts_way,General use,0.0,False,True
+facts_time,General use,0.0,False,True
+facts_theories,General use,0.0,False,True
+facts_note,General use,0.0,False,True
+facts_importance,General use,0.0,False,True
+facts_facts,General use,0.0,False,True
+facts_course,General use,0.0,False,True
+facts_case,General use,0.0,False,True
+facts,Physical evidence,0.5728,False,False
+factor_problem,General use,0.0,False,True
+factor,Physical evidence,0.5548,False,False
+fact_man,General use,0.0,False,True
+fact,Physical evidence,0.4706,False,False
+faces,Crime scene objects,0.3703,False,False
+face_woman,General use,0.0,False,True
+face_window,General use,0.0,False,True
+face_wall,General use,0.0,False,True
+face_tint,General use,0.0,False,True
+face_time,General use,0.0,False,True
+face_thing,General use,0.0,False,True
+face_teeth,General use,0.0,False,True
+face_tears,General use,0.0,False,True
+face_surprise,General use,0.0,False,True
+face_sleep,General use,0.0,False,True
+face_sittingroom,General use,0.0,False,True
+face_room,General use,0.0,False,True
+face_revolver,General use,0.0,False,True
+face_one,General use,0.0,False,True
+face_nose,General use,0.0,False,True
+face_night,General use,0.0,False,True
+face_mouth,General use,0.0,False,True
+face_manner,General use,0.0,False,True
+face_look,General use,0.0,False,True
+face_lips,General use,0.0,False,True
+face_light,General use,0.0,False,True
+face_lamp,General use,0.0,False,True
+face_heart,General use,0.0,False,True
+face_head,General use,0.0,False,True
+face_features,General use,0.0,False,True
+face_face_man,General use,0.0,False,True
+face_face,General use,0.0,False,True
+face_eyes,General use,0.0,False,True
+face_excitement,General use,0.0,False,True
+face_end,General use,0.0,False,True
+face_effort,General use,0.0,False,True
+face_disappointment,General use,0.0,False,True
+face_day,General use,0.0,False,True
+face_blood,General use,0.0,False,True
+face_beard,General use,0.0,False,True
+face_attention,General use,0.0,False,True
+face,Injuries and body parts,0.4882,False,False
+eyes_hand,General use,0.0,False,True
+eyes_hair,General use,0.0,False,True
+eyes_face,General use,0.0,False,True
+eyes_cigarette,General use,0.0,False,True
+eyes,Clothing and personal items,0.2704,False,False
+eyebrows,Injuries and body parts,0.4882,False,False
+eye_papers,General use,0.0,False,True
+eye_paper,General use,0.0,False,True
+eye_letter,General use,0.0,False,True
+eye,Injuries and body parts,0.4882,False,False
+extracts,Physical evidence,0.4768,False,False
+expressions,Physical evidence,0.4147,False,False
+expression_manner,General use,0.0,False,True
+expression,Injuries and body parts,0.5531,False,False
+explorer,Clothing and personal items,0.4222,False,False
+explanations,Physical evidence,0.5728,False,False
+explanation_time,General use,0.0,False,True
+explanation_one,General use,0.0,False,True
+explanation_facts,General use,0.0,False,True
+explanation,Physical evidence,0.5728,False,False
+expert,Detection and investigation terms,0.39,False,False
+experiences,Injuries and body parts,0.4407,False,False
+experience,Detection and investigation terms,0.4022,False,False
+expedition,Weapons and projectiles,0.2591,False,False
+expectancy,Injuries and body parts,0.5011,False,False
+existence,Physical evidence,0.3546,False,False
+exertion,Physical evidence,0.5923,False,False
+exclamation,Physical evidence,0.3472,False,False
+excitement,Physical evidence,0.4092,False,False
+exceptions,Physical evidence,0.518,False,False
+exception,Physical evidence,0.518,False,False
+excellent,Physical evidence,0.4583,False,False
+example_one,General use,0.0,False,True
+example_observation,General use,0.0,False,True
+example,Physical evidence,0.5728,False,False
+examination,Detection and investigation terms,0.2766,False,False
+evil,Clothing and personal items,0.3389,False,False
+evidence_thing,General use,0.0,False,True
+evidence_inspector,General use,0.0,False,True
+evidence_hand,General use,0.0,False,True
+evidence_garden,General use,0.0,False,True
+evidence_effect,General use,0.0,False,True
+evidence,Physical evidence,0.5728,True,False
+events,Detection and investigation terms,0.1884,False,False
+event_importance,General use,0.0,False,True
+event,Detection and investigation terms,0.4853,False,False
+evening_rambles,General use,0.0,False,True
+evening,Clothing and personal items,0.3078,False,False
+european,Clothing and personal items,0.4581,False,False
+europe,Clothing and personal items,0.2786,False,False
+estate,Detection and investigation terms,0.2658,False,False
+escape,Locations and environments,0.4527,False,False
+error,Physical evidence,0.4236,False,False
+envelope_table,General use,0.0,False,True
+envelope_hand,General use,0.0,False,True
+envelope_address,General use,0.0,False,True
+envelope,Crime scene objects,0.6618,True,False
+entries,Detection and investigation terms,0.3883,False,False
+english,Crime scene objects,0.3226,False,False
+england_father,General use,0.0,False,True
+england,Clothing and personal items,0.4232,False,False
+engines,Physical evidence,0.3551,False,False
+engine_work,General use,0.0,False,True
+engine,Physical evidence,0.3551,False,False
+energy,Detection and investigation terms,0.3571,False,False
+enemys,Weapons and projectiles,0.4471,False,False
+enemy,Weapons and projectiles,0.4471,False,False
+enemies,Weapons and projectiles,0.4471,False,False
+end_passage,General use,0.0,False,True
+end_knife,General use,0.0,False,True
+end_hand,General use,0.0,False,True
+end_face,General use,0.0,False,True
+end_cigarette,General use,0.0,False,True
+end,Physical evidence,0.4912,False,False
+enclosure,Detection and investigation terms,0.3868,False,False
+emotion,Physical evidence,0.3373,False,False
+embassy,Locations and environments,1.0,False,False
+egg,Clothing and personal items,0.4872,False,False
+effort,Physical evidence,0.525,False,False
+efficiency,Detection and investigation terms,0.5695,False,False
+effects_causes,General use,0.0,False,True
+effects,Physical evidence,0.5301,False,False
+effect_thing,General use,0.0,False,True
+effect_facts,General use,0.0,False,True
+effect,Physical evidence,0.5113,False,False
+education,Detection and investigation terms,0.5061,False,False
+edge,Physical evidence,0.4547,False,False
+east,Clothing and personal items,0.4232,False,False
+ease,Detection and investigation terms,0.4603,False,False
+earth,Physical evidence,0.3124,False,False
+ears,Injuries and body parts,0.395,False,False
+ear,Injuries and body parts,0.395,False,False
+eagle,Clothing and personal items,0.4581,False,False
+dye,Physical evidence,0.4869,False,False
+duty_inspector,General use,0.0,False,True
+duty,Detection and investigation terms,0.4953,False,False
+duties,Detection and investigation terms,0.4079,False,False
+dusty,Clothing and personal items,0.7726,False,False
+dust,Physical evidence,0.4146,False,False
+duplicates,Physical evidence,0.315,False,False
+duplicate,Physical evidence,0.315,False,False
+duncan,Clothing and personal items,0.3978,False,False
+dummy,Clothing and personal items,0.3122,False,False
+duke,Clothing and personal items,0.3978,False,False
+duel,Weapons and projectiles,0.5094,False,False
+driver_house,General use,0.0,False,True
+driver,Weapons and projectiles,0.2904,False,False
+drive_house,General use,0.0,False,True
+drive,Detection and investigation terms,0.4603,False,False
+dressinggown_face,General use,0.0,False,True
+dressinggown,General use,0.0,False,True
+dress,Clothing and personal items,0.236,False,False
+drains,Injuries and body parts,0.4185,False,False
+dozen,Clothing and personal items,0.3695,False,False
+doubt_crime,General use,0.0,False,True
+doubt,Detection and investigation terms,0.4267,False,False
+dots,Physical evidence,0.4869,False,False
+dot,Physical evidence,0.4869,False,False
+doorway,Clothing and personal items,0.2092,False,False
+doors_windows,General use,0.0,False,True
+doors_night,General use,0.0,False,True
+doors,Detection and investigation terms,0.3868,False,False
+door_windows,General use,0.0,False,True
+door_room,General use,0.0,False,True
+door_lock,General use,0.0,False,True
+door_lawn,General use,0.0,False,True
+door_hut,General use,0.0,False,True
+door_hand,General use,0.0,False,True
+door,Weapons and projectiles,0.3039,False,False
+dogs,Clothing and personal items,0.248,False,False
+dog,Clothing and personal items,0.248,False,False
+document_question,General use,0.0,False,True
+document_pocket,General use,0.0,False,True
+document_importance,General use,0.0,False,True
+document,Crime scene objects,0.6409,True,False
+doctrine,Detection and investigation terms,0.5212,False,False
+doctors,Injuries and body parts,0.5898,False,False
+doctor_danger,General use,0.0,False,True
+doctor,Substances and poisons,0.3438,False,False
+ditch,Clothing and personal items,0.4523,False,False
+distractions,Physical evidence,0.518,False,False
+distinction,Detection and investigation terms,0.5802,False,False
+distance_point,General use,0.0,False,True
+distance,Physical evidence,0.401,False,False
+disposal,Substances and poisons,0.6345,False,False
+dismissal,Detection and investigation terms,0.5493,False,False
+dislike,Clothing and personal items,0.3679,False,False
+disease,Injuries and body parts,0.6459,False,False
+discussion,Physical evidence,0.5728,False,False
+discs,Physical evidence,0.315,False,False
+discretion,Detection and investigation terms,0.4707,False,False
+discovery,Injuries and body parts,0.5946,False,False
+disc,Physical evidence,0.315,False,False
+disappointment_doubt,General use,0.0,False,True
+disappearance,Locations and environments,0.6337,False,False
+disadvantages,Physical evidence,0.5979,False,False
+disadvantage,Physical evidence,0.5979,False,False
+dirt,Clothing and personal items,0.4176,False,False
+directory,Clothing and personal items,0.4222,False,False
+directions,Physical evidence,0.5728,False,False
+direction,Weapons and projectiles,0.348,False,False
+dinner,Clothing and personal items,0.3078,False,False
+diningroom,Substances and poisons,0.156,False,False
+difficulty,Injuries and body parts,0.3643,False,False
+difficulties,Locations and environments,0.381,False,False
+difference,Physical evidence,0.4468,False,False
+dictation,Physical evidence,0.3251,False,False
+diary,Physical evidence,0.2657,False,False
+dexterity,Detection and investigation terms,0.3131,False,False
+devil,Clothing and personal items,0.3389,False,False
+devices,Detection and investigation terms,0.3868,False,False
+development,Physical evidence,0.434,False,False
+detectives,Locations and environments,0.6337,False,False
+detective,Locations and environments,0.3243,False,False
+detection_science,General use,0.0,False,True
+details,Physical evidence,0.3147,False,False
+detail,Physical evidence,0.5728,False,False
+despair,Locations and environments,0.2342,False,False
+desk,Detection and investigation terms,0.1376,False,False
+desire,Detection and investigation terms,0.4022,False,False
+descriptions,Physical evidence,0.5728,False,False
+description_face,General use,0.0,False,True
+description,Physical evidence,0.5728,False,False
+descendant,Locations and environments,0.3034,False,False
+depth,Physical evidence,0.531,False,False
+departure_effect,General use,0.0,False,True
+departure,Crime scene objects,0.6038,False,False
+den,Weapons and projectiles,0.0261,False,False
+demand,Physical evidence,0.5313,False,False
+delight_features,General use,0.0,False,True
+delay,Physical evidence,0.4522,False,False
+deformity,Injuries and body parts,0.3622,False,False
+definition,Physical evidence,0.5728,False,False
+defiance,Detection and investigation terms,0.4486,False,False
+deference,Detection and investigation terms,0.4486,False,False
+deed,Detection and investigation terms,0.2469,False,False
+deduction,Physical evidence,0.2659,False,False
+decision,Detection and investigation terms,0.5106,False,False
+death_sir,General use,0.0,False,True
+death_causes,General use,0.0,False,True
+death,Locations and environments,0.5392,False,False
+dealings,Detection and investigation terms,0.3169,False,False
+deal_investigation,General use,0.0,False,True
+deal,Detection and investigation terms,0.4054,False,False
+days_letter,General use,0.0,False,True
+days,Clothing and personal items,0.1759,False,False
+day_today,General use,0.0,False,True
+day_letters,General use,0.0,False,True
+day_letter,General use,0.0,False,True
+day_incident,General use,0.0,False,True
+day_hand,General use,0.0,False,True
+day_face,General use,0.0,False,True
+day_chemical,General use,0.0,False,True
+day,Detection and investigation terms,0.3977,False,False
+daughter,Locations and environments,0.5392,False,False
+date,Detection and investigation terms,0.3398,False,False
+data_capital_mistake,General use,0.0,False,True
+data_capital,General use,0.0,False,True
+data,Physical evidence,0.4438,False,False
+dartmoor,Substances and poisons,0.1378,False,False
+darkness_power,General use,0.0,False,True
+darkness,Clothing and personal items,0.3389,False,False
+dangers,Physical evidence,0.4974,False,False
+danger_time,General use,0.0,False,True
+danger_deal,General use,0.0,False,True
+danger,Detection and investigation terms,0.415,False,False
+dagger,Weapons and projectiles,0.858,True,False
+cut,Weapons and projectiles,0.858,False,False
+curve,Physical evidence,0.3777,False,False
+curtain,Clothing and personal items,0.4263,False,False
+curiosity,Physical evidence,0.2443,False,False
+curb,Physical evidence,0.5923,False,False
+cur,Physical evidence,0.2519,False,False
+cup,Clothing and personal items,0.4872,False,False
+culprit,Substances and poisons,0.4516,False,False
+crystals,Physical evidence,0.4584,False,False
+cry,Crime scene objects,0.3385,False,False
+crowd,Locations and environments,0.2872,False,False
+cross,Weapons and projectiles,0.348,False,False
+crop,Clothing and personal items,0.4662,False,False
+crony,Detection and investigation terms,0.316,False,False
+criminals,Locations and environments,0.5878,False,False
+criminal,Detection and investigation terms,0.505,False,False
+crimes,Locations and environments,0.3934,False,False
+crime_disappearance,General use,0.0,False,True
+crime_crime,General use,0.0,False,True
+crime_attempt,General use,0.0,False,True
+crime,Locations and environments,0.3934,False,False
+credit,Detection and investigation terms,0.383,False,False
+creature,Physical evidence,0.3546,False,False
+cracking,Clothing and personal items,0.3234,False,False
+cover,Crime scene objects,0.6618,False,False
+courts,Detection and investigation terms,0.5123,False,False
+court_appeal,General use,0.0,False,True
+court,Detection and investigation terms,0.3958,False,False
+course_theory,General use,0.0,False,True
+course_reading,General use,0.0,False,True
+course_meaning,General use,0.0,False,True
+course_information,General use,0.0,False,True
+course_importance,General use,0.0,False,True
+course_explanation,General use,0.0,False,True
+course,Crime scene objects,0.3691,False,False
+couple,Physical evidence,0.4912,False,False
+county_constabulary,General use,0.0,False,True
+county_constable,General use,0.0,False,True
+county,Clothing and personal items,0.3628,False,False
+country,Detection and investigation terms,0.3542,False,False
+countess,Locations and environments,0.3034,False,False
+council,Crime scene objects,0.6409,False,False
+cotton,Clothing and personal items,0.7726,False,False
+cottage,Clothing and personal items,0.2937,False,False
+corroboration,Detection and investigation terms,0.5057,False,False
+corridor,Locations and environments,0.2452,False,False
+coronet,Substances and poisons,0.1485,False,False
+coroners_jury,General use,0.0,False,True
+coroners_inquiry,General use,0.0,False,True
+coroner,Substances and poisons,0.1781,False,False
+corner_carpet,General use,0.0,False,True
+corner,Weapons and projectiles,0.5023,False,False
+cork,Clothing and personal items,0.7726,False,False
+cord,Injuries and body parts,0.527,False,False
+copying,Physical evidence,0.257,False,False
+copy_original,General use,0.0,False,True
+copy,Crime scene objects,0.2619,False,False
+copper,Physical evidence,0.4584,False,False
+copies,Crime scene objects,0.2619,False,False
+cooking,Clothing and personal items,0.4395,False,False
+cook,Clothing and personal items,0.4633,False,False
+convictions,Detection and investigation terms,0.4486,False,False
+convict,Detection and investigation terms,0.3594,False,False
+converse,Clothing and personal items,0.4681,False,False
+conversation,Crime scene objects,0.3127,False,False
+conventions,Physical evidence,0.4147,False,False
+control,Detection and investigation terms,0.3868,False,False
+contrary,Detection and investigation terms,0.5204,False,False
+continuation,Detection and investigation terms,0.5212,False,False
+contents,Crime scene objects,0.23,False,False
+content,Crime scene objects,0.5123,False,False
+contempt,Detection and investigation terms,0.4486,False,False
+consumption,Physical evidence,0.4877,False,False
+consulting,Detection and investigation terms,0.3447,False,False
+constitution,Detection and investigation terms,0.5123,False,False
+constable,Substances and poisons,0.1781,False,False
+consolation,Crime scene objects,0.3933,False,False
+considerations,Detection and investigation terms,0.5212,False,False
+consideration,Detection and investigation terms,0.5802,False,False
+consequences,Physical evidence,0.4974,False,False
+consequence,Physical evidence,0.5979,False,False
+connection_matter,General use,0.0,False,True
+connection_,Physical evidence,0.3177,False,False
+connection,Physical evidence,0.3716,False,False
+conjecture,Detection and investigation terms,0.369,False,False
+confidence,Physical evidence,0.2042,False,False
+confederate,Clothing and personal items,0.4581,False,False
+conduct,Physical evidence,0.4871,False,False
+conditions,Physical evidence,0.5301,False,False
+condition,Injuries and body parts,0.6459,False,False
+conclusions,Physical evidence,0.5728,False,False
+conclusion,Physical evidence,0.5728,False,False
+conception,Detection and investigation terms,0.5212,False,False
+comrades,Weapons and projectiles,0.4471,False,False
+comprehension,Detection and investigation terms,0.3131,False,False
+composition,Physical evidence,0.4802,False,False
+complication,Injuries and body parts,0.5914,False,False
+complexion,Physical evidence,0.3957,False,False
+competence,Detection and investigation terms,0.3131,False,False
+company,Detection and investigation terms,0.2951,False,False
+companions,Locations and environments,0.1704,False,False
+companion,Detection and investigation terms,0.3553,False,False
+companies,Detection and investigation terms,0.3447,False,False
+communications,Detection and investigation terms,0.3868,False,False
+command,Injuries and body parts,0.0994,False,False
+combinations,Physical evidence,0.4802,False,False
+columns,Crime scene objects,0.5123,False,False
+column_smoke,General use,0.0,False,True
+column_print,General use,0.0,False,True
+column_paper,General use,0.0,False,True
+column,Crime scene objects,0.5123,False,False
+colours,Physical evidence,0.4693,False,False
+colour_hair,General use,0.0,False,True
+colour_face,General use,0.0,False,True
+colour_eyes,General use,0.0,False,True
+colour_cheeks,General use,0.0,False,True
+colour,Physical evidence,0.4937,False,False
+colonel,Clothing and personal items,0.129,False,False
+collar,Clothing and personal items,0.4263,False,False
+coincidence,Physical evidence,0.5728,False,False
+coffin,Clothing and personal items,0.7726,False,False
+coffee_brain,General use,0.0,False,True
+coffee,Substances and poisons,0.2592,False,False
+code,Physical evidence,0.3149,False,False
+coaxing,Locations and environments,0.3033,False,False
+coats,Physical evidence,0.4146,False,False
+coat_air,General use,0.0,False,True
+coat,Physical evidence,0.4146,False,False
+coachman,Clothing and personal items,0.1861,False,False
+cluster,Detection and investigation terms,0.3868,False,False
+clue_house,General use,0.0,False,True
+clue_course,General use,0.0,False,True
+clue,Physical evidence,0.5728,False,False
+club,Clothing and personal items,0.2925,False,False
+clouds,Substances and poisons,0.2222,False,False
+cloud_dust,General use,0.0,False,True
+cloud,Physical evidence,0.384,False,False
+clothes,Clothing and personal items,0.3473,False,False
+cloth_cap,General use,0.0,False,True
+cloth,Physical evidence,0.4146,False,False
+clock_quarter,General use,0.0,False,True
+clock,Physical evidence,0.4522,False,False
+cloak,Weapons and projectiles,0.8046,False,False
+client_face,General use,0.0,False,True
+client,Physical evidence,0.384,False,False
+clerk,Crime scene objects,0.1824,False,False
+clearcut_face,General use,0.0,False,True
+cleanliness,Detection and investigation terms,0.5695,False,False
+clay_pipe,General use,0.0,False,True
+clay,Physical evidence,0.2363,False,False
+claim,Detection and investigation terms,0.5578,False,False
+city,Detection and investigation terms,0.4853,False,False
+circumstances_man,General use,0.0,False,True
+circumstances_death,General use,0.0,False,True
+circumstances,Physical evidence,0.5301,False,False
+circulation,Physical evidence,0.5548,False,False
+circle,Weapons and projectiles,0.5023,False,False
+cigarette_fire,General use,0.0,False,True
+cigarette,Physical evidence,0.6313,False,False
+cigar_cigarette,General use,0.0,False,True
+cigar,Clothing and personal items,0.3078,False,False
+church,Clothing and personal items,0.3293,False,False
+chisel,Weapons and projectiles,0.858,False,False
+chin,Injuries and body parts,0.215,False,False
+chimney,Physical evidence,0.4146,False,False
+chill_fear,General use,0.0,False,True
+childrens,Clothing and personal items,0.4581,False,False
+children,Injuries and body parts,0.3456,False,False
+childhood,Injuries and body parts,0.6459,False,False
+child,Detection and investigation terms,0.3906,False,False
+chicken,Clothing and personal items,0.4423,False,False
+chicago,Clothing and personal items,0.3628,False,False
+chestnuts,Clothing and personal items,0.4329,False,False
+chest,Injuries and body parts,0.5078,False,False
+chemicals,Substances and poisons,0.6345,False,False
+chemical_researches,General use,0.0,False,True
+chemical_laboratory,General use,0.0,False,True
+chemical_analysis,General use,0.0,False,True
+chemical,Substances and poisons,0.6345,False,False
+cheeks,Injuries and body parts,0.2866,False,False
+chart,Physical evidence,0.4838,False,False
+charles,Clothing and personal items,0.3978,False,False
+charing,Locations and environments,0.0662,False,False
+charge,Detection and investigation terms,0.4953,False,False
+charcoal,Physical evidence,0.4146,False,False
+characteristics,Physical evidence,0.531,False,False
+character,Locations and environments,0.3243,False,False
+chapter_vii,General use,0.0,False,True
+chapter,Crime scene objects,0.3691,False,False
+chap,Crime scene objects,0.3226,False,False
+channel,Physical evidence,0.4522,False,False
+changes,Physical evidence,0.5548,False,False
+change_expression,General use,0.0,False,True
+change,Physical evidence,0.5313,False,False
+chance_fellow,General use,0.0,False,True
+chance,Detection and investigation terms,0.3957,False,False
+chamber,Weapons and projectiles,0.348,False,False
+chalk,Physical evidence,0.4146,False,False
+chair,Physical evidence,0.2613,False,False
+chain,Detection and investigation terms,0.2951,False,False
+chaff,Clothing and personal items,0.7726,False,False
+certainty,Detection and investigation terms,0.5212,False,False
+ceremony,Detection and investigation terms,0.3484,False,False
+centres,Detection and investigation terms,0.3868,False,False
+centre,Detection and investigation terms,0.4853,False,False
+cells,Injuries and body parts,0.6878,False,False
+cellar,Clothing and personal items,0.2215,False,False
+cell,Injuries and body parts,0.6966,False,False
+ceiling,Weapons and projectiles,0.348,False,False
+cause_quarrel,General use,0.0,False,True
+cause_note,General use,0.0,False,True
+cause_effect,General use,0.0,False,True
+cause,Physical evidence,0.4912,False,False
+category,Detection and investigation terms,0.3484,False,False
+cataract,Injuries and body parts,0.7388,False,False
+cases_name,General use,0.0,False,True
+cases,Detection and investigation terms,0.4838,False,False
+case_possession,General use,0.0,False,True
+case_point,General use,0.0,False,True
+case_murder,General use,0.0,False,True
+case_marriage,General use,0.0,False,True
+case_investigation,General use,0.0,False,True
+case_information,General use,0.0,False,True
+case_incident,General use,0.0,False,True
+case_heart,General use,0.0,False,True
+case_evidence,General use,0.0,False,True
+case_data,General use,0.0,False,True
+case_conclusions,General use,0.0,False,True
+case_annals,General use,0.0,False,True
+case,Detection and investigation terms,0.498,False,False
+cartridges,Physical evidence,0.3559,False,False
+carruthers,Substances and poisons,0.0968,False,False
+carriage_sight,General use,0.0,False,True
+carriage_drive,General use,0.0,False,True
+carriage,Clothing and personal items,0.3975,False,False
+carpets,Physical evidence,0.4146,False,False
+carpet,Physical evidence,0.4146,False,False
+career,Detection and investigation terms,0.3376,False,False
+care,Detection and investigation terms,0.3957,False,False
+cards,Crime scene objects,0.3259,False,False
+cardboard_box,General use,0.0,False,True
+cardboard,Crime scene objects,0.6618,False,False
+card,Crime scene objects,0.3259,False,False
+car,Clothing and personal items,0.3951,False,False
+captains,Detection and investigation terms,0.3898,False,False
+captain,Detection and investigation terms,0.3485,False,False
+capital_mistake,General use,0.0,False,True
+capital,Detection and investigation terms,0.4624,False,False
+capacity,Detection and investigation terms,0.5695,False,False
+canvas,Crime scene objects,0.6618,False,False
+cane,Clothing and personal items,0.6269,True,False
+candle,Clothing and personal items,0.1836,False,False
+camera,Weapons and projectiles,0.2904,False,False
+cambridge,Clothing and personal items,0.3628,False,False
+camberwell,Substances and poisons,0.0927,False,False
+calling,Detection and investigation terms,0.4328,False,False
+california,Clothing and personal items,0.3628,False,False
+cabman_mr,General use,0.0,False,True
+cabman,General use,0.0,False,True
+cabinet,Physical evidence,0.4146,False,False
+cab_way,General use,0.0,False,True
+cab_time,General use,0.0,False,True
+cab_side,General use,0.0,False,True
+cab_house,General use,0.0,False,True
+cab_drive,General use,0.0,False,True
+cab_corner,General use,0.0,False,True
+cab_baker_street,General use,0.0,False,True
+cab_baker,General use,0.0,False,True
+cab,Weapons and projectiles,0.2904,False,False
+butt_revolver,General use,0.0,False,True
+butler_mr,General use,0.0,False,True
+butler,Clothing and personal items,0.3978,False,False
+bust,Injuries and body parts,0.3336,False,False
+business_rule,General use,0.0,False,True
+business_importance,General use,0.0,False,True
+business,Detection and investigation terms,0.4624,False,False
+burning,Physical evidence,0.4481,False,False
+bureau,Detection and investigation terms,0.3199,False,False
+bunk,Crime scene objects,0.5128,False,False
+bundle,Physical evidence,0.3147,False,False
+bullets_head,General use,0.0,False,True
+bullets,Weapons and projectiles,0.8046,False,False
+bullet,Weapons and projectiles,0.8046,True,False
+bulk,Physical evidence,0.6605,False,False
+buildings,Detection and investigation terms,0.3868,False,False
+building,Physical evidence,0.3176,False,False
+bucket,Clothing and personal items,0.7726,False,False
+brows,Injuries and body parts,0.215,False,False
+brown,Clothing and personal items,0.2932,False,False
+brow_eye,General use,0.0,False,True
+brow,Injuries and body parts,0.2064,False,False
+brothers,Clothing and personal items,0.3012,False,False
+brother,Clothing and personal items,0.3012,False,False
+brixton_road,General use,0.0,False,True
+brixton,Substances and poisons,0.1048,False,False
+british,Clothing and personal items,0.4581,False,False
+brightness,Physical evidence,0.531,False,False
+bridge,Locations and environments,0.2452,False,False
+bricks,Clothing and personal items,0.7726,False,False
+brick,Clothing and personal items,0.4263,False,False
+breath,Injuries and body parts,0.395,False,False
+breast,Injuries and body parts,0.5562,False,False
+breakfast,Clothing and personal items,0.3078,False,False
+bread,Clothing and personal items,0.4633,False,False
+brass,Physical evidence,0.4584,False,False
+brain_heart,General use,0.0,False,True
+brain,Injuries and body parts,0.6966,False,False
+boy_telegram,General use,0.0,False,True
+boy,Clothing and personal items,0.354,False,False
+box_papers,General use,0.0,False,True
+box_contents,General use,0.0,False,True
+box,Crime scene objects,0.3259,False,False
+bowl,Clothing and personal items,0.5371,False,False
+bow,Clothing and personal items,0.2265,False,False
+boulder,Clothing and personal items,0.3628,False,False
+bottom,Physical evidence,0.4547,False,False
+border,Substances and poisons,0.3997,False,False
+boots,Clothing and personal items,0.2358,False,False
+boot,Clothing and personal items,0.4222,True,False
+books_sir,General use,0.0,False,True
+books,Crime scene objects,0.209,False,False
+book,Crime scene objects,0.2706,False,False
+bones,Injuries and body parts,0.6878,False,False
+bone,Injuries and body parts,0.7761,True,False
+bog,Clothing and personal items,0.4176,False,False
+body_man,General use,0.0,False,True
+body_hand,General use,0.0,False,True
+body_body,General use,0.0,False,True
+body,Injuries and body parts,0.5078,False,False
+boat,Clothing and personal items,0.4157,False,False
+boards,Crime scene objects,0.6618,False,False
+blur,Clothing and personal items,0.3159,False,False
+blunders,Physical evidence,0.4236,False,False
+blunder,Physical evidence,0.4236,False,False
+blow_weapon,General use,0.0,False,True
+blow,Clothing and personal items,0.3818,False,False
+blood_veins,General use,0.0,False,True
+blood_table,General use,0.0,False,True
+blood_room,General use,0.0,False,True
+blood_passage,General use,0.0,False,True
+blood_object,General use,0.0,False,True
+blood_lestrade,General use,0.0,False,True
+blood_head,General use,0.0,False,True
+blood_handle,General use,0.0,False,True
+blood_face,General use,0.0,False,True
+blood,Injuries and body parts,0.7824,True,False
+bleeding,Substances and poisons,0.419,False,False
+blaze,Weapons and projectiles,0.3233,False,False
+blade,Weapons and projectiles,0.858,True,False
+bit,Physical evidence,0.4912,False,False
+bird,Clothing and personal items,0.3043,False,False
+biography,Clothing and personal items,0.3978,False,False
+billiards,Clothing and personal items,0.3628,False,False
+benefit,Physical evidence,0.5694,False,False
+bell,Clothing and personal items,0.4424,False,False
+behalf,Detection and investigation terms,0.4328,False,False
+bedroom,Clothing and personal items,0.196,False,False
+bed_face,General use,0.0,False,True
+bed,Crime scene objects,0.3385,False,False
+beauty_thing,General use,0.0,False,True
+beauty_eyes,General use,0.0,False,True
+beauty,Injuries and body parts,0.4882,False,False
+beast,Clothing and personal items,0.3389,False,False
+beard_face,General use,0.0,False,True
+beard,Clothing and personal items,0.2273,False,False
+beads,Physical evidence,0.4869,False,False
+beach,Clothing and personal items,0.3628,False,False
+bay,Clothing and personal items,0.3628,False,False
+basis_speculation,General use,0.0,False,True
+basis,Detection and investigation terms,0.5061,False,False
+barrel,Clothing and personal items,0.4567,False,False
+barons,Detection and investigation terms,0.376,False,False
+baronet,Clothing and personal items,0.129,False,False
+barclay,Substances and poisons,0.175,False,False
+bankers,Detection and investigation terms,0.376,False,False
+banker,Detection and investigation terms,0.376,False,False
+bank,Crime scene objects,0.3788,False,False
+band,Clothing and personal items,0.3659,False,False
+balance_probability,General use,0.0,False,True
+baker_street,General use,0.0,False,True
+baker,Clothing and personal items,0.3042,False,False
+bag,Clothing and personal items,0.3473,False,False
+background,Clothing and personal items,0.3159,False,False
+back,Physical evidence,0.4912,False,False
+avenue,Clothing and personal items,0.3628,False,False
+authority,Detection and investigation terms,0.5212,False,False
+author_monograph,General use,0.0,False,True
+author,Crime scene objects,0.5123,False,False
+authenticity,Detection and investigation terms,0.5497,False,False
+audience,Detection and investigation terms,0.5299,False,False
+attention,Detection and investigation terms,0.4126,False,False
+attempts,Detection and investigation terms,0.4347,False,False
+attempt_way,General use,0.0,False,True
+attempt_robbery,General use,0.0,False,True
+attempt,Detection and investigation terms,0.5414,False,False
+attack,Weapons and projectiles,0.4847,False,False
+atmosphere,Physical evidence,0.4092,False,False
+atlantic,Clothing and personal items,0.3628,False,False
+astonishment,Crime scene objects,0.1573,False,False
+assizes,Detection and investigation terms,0.4183,False,False
+assistant,Detection and investigation terms,0.3376,False,False
+assistance,Detection and investigation terms,0.4624,False,False
+assault,Weapons and projectiles,0.4847,False,False
+ashes,Clothing and personal items,0.4176,False,False
+ash_trichinopoly,General use,0.0,False,True
+ash_cigar,General use,0.0,False,True
+ash,Physical evidence,0.5985,True,False
+articles,Crime scene objects,0.5123,False,False
+article,Crime scene objects,0.5123,False,False
+artery,Injuries and body parts,0.7434,True,False
+arteries,Injuries and body parts,0.6544,False,False
+art,Physical evidence,0.4213,False,False
+arrows,Weapons and projectiles,0.4471,False,False
+arrow,Weapons and projectiles,0.8046,False,False
+arrival,Detection and investigation terms,0.4953,False,False
+arrest,Detection and investigation terms,0.4707,False,False
+army_surgeon,General use,0.0,False,True
+army,Weapons and projectiles,0.4407,False,False
+arms,Injuries and body parts,0.2866,False,False
+armour,Weapons and projectiles,0.8046,False,False
+armchair,Clothing and personal items,0.4263,False,False
+arm,Injuries and body parts,0.2866,False,False
+architecture,Detection and investigation terms,0.3868,False,False
+apron,Weapons and projectiles,0.858,False,False
+appreciation,Crime scene objects,0.3933,False,False
+appointment,Detection and investigation terms,0.4953,False,False
+applicant,Detection and investigation terms,0.5061,False,False
+apple,Clothing and personal items,0.4851,False,False
+appearance_time,General use,0.0,False,True
+appearance_one,General use,0.0,False,True
+appearance_face,General use,0.0,False,True
+appearance,Injuries and body parts,0.4882,False,False
+appeals,Detection and investigation terms,0.5578,False,False
+appeal,Detection and investigation terms,0.5578,False,False
+apology,Crime scene objects,0.6038,False,False
+apologies,Crime scene objects,0.6038,False,False
+antecedents,Physical evidence,0.4147,False,False
+answer,Detection and investigation terms,0.3803,False,False
+announcement,Crime scene objects,0.6038,False,False
+annals_crime,General use,0.0,False,True
+animal,Injuries and body parts,0.3456,False,False
+anger,Physical evidence,0.3373,False,False
+angel,Locations and environments,0.2872,False,False
+andaman,Substances and poisons,0.1358,False,False
+anatomy,Injuries and body parts,0.5155,False,False
+analysis,Physical evidence,0.4847,False,False
+american,Clothing and personal items,0.4581,False,False
+america,Clothing and personal items,0.4232,False,False
+amazement,Crime scene objects,0.1573,False,False
+ally,Weapons and projectiles,0.4471,False,False
+alley,Clothing and personal items,0.3379,False,False
+alert_manner,General use,0.0,False,True
+albert,Clothing and personal items,0.3978,False,False
+alarm,Physical evidence,0.3041,False,False
+air,Physical evidence,0.488,False,False
+aid,Detection and investigation terms,0.4624,False,False
+agra_treasure,General use,0.0,False,True
+agra,Substances and poisons,0.1051,False,False
+agitation,Substances and poisons,0.3366,False,False
+agents,Physical evidence,0.3554,False,False
+agent,Physical evidence,0.4544,False,False
+age,Physical evidence,0.3055,False,False
+afternoon,Clothing and personal items,0.3078,False,False
+africa,Clothing and personal items,0.2786,False,False
+afghanistan,Locations and environments,0.3091,False,False
+affection,Crime scene objects,0.3933,False,False
+affairs,Detection and investigation terms,0.4624,False,False
+affair_sight,General use,0.0,False,True
+affair_letter,General use,0.0,False,True
+affair_investigation,General use,0.0,False,True
+affair_heart,General use,0.0,False,True
+affair,Detection and investigation terms,0.3388,False,False
+advice,Detection and investigation terms,0.39,False,False
+advertisement_sheet,General use,0.0,False,True
+advertisement,Detection and investigation terms,0.426,False,False
+adventures,Crime scene objects,0.2704,False,False
+adventure,Locations and environments,0.2607,False,False
+advantages,Physical evidence,0.5694,False,False
+advantage,Detection and investigation terms,0.3221,False,False
+admission,Detection and investigation terms,0.5802,False,False
+admiration,Crime scene objects,0.3933,False,False
+adelaide,Clothing and personal items,0.3628,False,False
+addresses,Clothing and personal items,0.4544,False,False
+address,Detection and investigation terms,0.4126,False,False
+acts,Locations and environments,0.3934,False,False
+actions_end,General use,0.0,False,True
+actions,Detection and investigation terms,0.5204,False,False
+action,Weapons and projectiles,0.4407,False,False
+acquaintance,Crime scene objects,0.3933,False,False
+acid,Physical evidence,0.5614,False,False
+accuser,Detection and investigation terms,0.5006,False,False
+accusation,Detection and investigation terms,0.5006,False,False
+account,Detection and investigation terms,0.3398,False,False
+accomplishments,Detection and investigation terms,0.5802,False,False
+accomplishment,Detection and investigation terms,0.5802,False,False
+accomplice,Locations and environments,0.6337,False,False
+absence_motive,General use,0.0,False,True
+absence,Detection and investigation terms,0.484,False,False
+abilities,Detection and investigation terms,0.3131,False,False
+_way,Clothing and personal items,0.3632,False,False
+_time,Clothing and personal items,0.3632,False,False
+_telegram,Crime scene objects,0.4477,False,False
+_statement,Crime scene objects,0.4415,False,False
+_sight,Weapons and projectiles,0.5851,False,False
+_sheet_paper,Clothing and personal items,0.1296,False,False
+_scotland_yard,Clothing and personal items,0.1296,False,False
+_scotland,Clothing and personal items,0.3339,False,False
+_revolver,Weapons and projectiles,0.5851,False,False
+_report,Crime scene objects,0.4415,False,False
+_power,Detection and investigation terms,0.3936,False,False
+_pistol,Weapons and projectiles,0.5851,False,False
+_pipe,Clothing and personal items,0.6191,False,False
+_palm,Clothing and personal items,0.4474,False,False
+_notebook,Clothing and personal items,0.2418,False,False
+_mrs,Clothing and personal items,0.3441,False,False
+_mr_,Clothing and personal items,0.2734,False,False
+_mr,Clothing and personal items,0.3441,False,False
+_man,Locations and environments,0.3361,False,False
+_london,Clothing and personal items,0.3441,False,False
+_letter,Crime scene objects,0.4477,False,False
+_john,Clothing and personal items,0.3441,False,False
+_james,Clothing and personal items,0.3441,False,False
+_information,Crime scene objects,0.4415,False,False
+_head,Clothing and personal items,0.3127,False,False
+_hat,Clothing and personal items,0.6191,False,False
+_hand,Weapons and projectiles,0.658,False,False
+_friend,Clothing and personal items,0.2803,False,False
+_end_cigarette,Clothing and personal items,0.1296,False,False
+_drive,Physical evidence,0.3593,False,False
+_dressinggown,Clothing and personal items,0.1296,False,False
+_dr_,Clothing and personal items,0.2734,False,False
+_dr,Clothing and personal items,0.3441,False,False
+_contents,Physical evidence,0.1884,False,False
+_constitution,Detection and investigation terms,0.3862,False,False
+_cigarette,Physical evidence,0.5193,False,False
+_chair,Physical evidence,0.2521,False,False
+_cabman,Clothing and personal items,0.1296,False,False
+_cab,Clothing and personal items,0.2579,False,False
+_book,Clothing and personal items,0.2155,False,False
+_bag,Clothing and personal items,0.3339,False,False
+_asperity,Clothing and personal items,0.1296,False,False
+_apology,Crime scene objects,0.4477,False,False
+__volume,Physical evidence,0.2958,False,False
+__pipe,Clothing and personal items,0.4462,False,False
+__papers,Crime scene objects,0.3236,False,False
+__news,Crime scene objects,0.2248,False,False
+__mr,Clothing and personal items,0.2734,False,False
+__morning_post,Clothing and personal items,0.1296,False,False
+__,Clothing and personal items,0.1296,False,False
+_,Clothing and personal items,0.1296,False,False
