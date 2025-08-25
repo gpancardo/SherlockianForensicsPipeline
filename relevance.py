@@ -46,10 +46,10 @@ scores = X.sum(axis=0).A1
 tfidf_scores = dict(zip(terms, scores))
 
 # Top 1000 TF-IDF
-top_terms = sorted(tfidf_scores.items(), key=lambda x: x[1], reverse=True)[:1000]
+top_terms = sorted(tfidf_scores.items(), key=lambda x: x[1], reverse=True)[:300]
 
 # Find similar words for each seed term
-def expand_with_similarity(seed_terms, candidate_terms, top_k=75):
+def expand_with_similarity(seed_terms, candidate_terms, top_k=30):
     expansions = set()
     for seed in seed_terms:
         if seed in nlp.vocab:

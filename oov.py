@@ -5,7 +5,7 @@ from collections import Counter
 # Load English spaCy
 nlp = spacy.load("en_core_web_sm")
 
-def extract_oov_words(folder_path, max_freq=10):
+def extract_oov_words(folder_path, max_freq=7):
     oov_counter = Counter()
     
     # Go through clean files
@@ -30,4 +30,4 @@ oov_terms = extract_oov_words(folder_path, max_freq=10)
 with open("rareOovTerms.txt", "w", encoding="utf-8") as f:
     f.write("\n".join(oov_terms))
 
-print(f"Low frequency (≤10) words: {len(oov_terms)}")
+print(f"Low frequency (≤7) words: {len(oov_terms)}")
