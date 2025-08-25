@@ -7,6 +7,16 @@ import (
 	"strings"
 )
 
+// List of paths. Later I can autodownload from GP
+var bookList = [7]string{
+	"books/scarlet.txt",
+	"books/baskervilles.txt",
+	"books/lastBow.txt",
+	"books/memoirs.txt",
+	"books/sign.txt",
+	"books/theAdventures.txt",
+	"books/theReturn.txt"}
+
 // Gets raw text from book file
 func GetBookContent(bookRoute string) string {
 	content, err := os.ReadFile(bookRoute)
@@ -23,37 +33,37 @@ func GetBookContent(bookRoute string) string {
 // Removes unwanted characters from the raw text
 func RemoveCharacters(bookRoute string, bookContent string) string {
 	// Builds the name of the clean file for each book
-	cleanFile := bookRoute + "_clean.txt" // Use := to declare and initialize
+	cleanFile := bookRoute + "_clean.txt"
 
-	// Define a regex pattern to match unwanted characters
+	// Replace unwanted characters
 	pattern := `[^\w\s]`
 	re := regexp.MustCompile(pattern)
-
-	// Replace unwanted characters with an empty string
 	cleanedText := re.ReplaceAllString(bookContent, "")
 
 	// Write the cleaned text back to the file
 	err := os.WriteFile(cleanFile, []byte(cleanedText), 0644)
 	if err != nil {
 		fmt.Println("Error writing cleaned text to file:", err)
-		return "" // Return an empty string or handle the error as needed
+		return ""
 	}
 
-	fmt.Println("Unwanted characters removed and cleaned text saved to " + cleanFile)
+	fmt.Println("Clean text in " + cleanFile)
 	return cleanedText
 }
 
 func main() {
-	var studyScarletRoute string = "books/scarlet.txt"
-	var bookContent string = GetBookContent(studyScarletRoute)
+	for i := 0; i < len(bookList); i++ {
+		var bookRoute string = bookList[i]
+		var bookContent string = GetBookContent(bookRoute)
 
-	bookContent = strings.ToLower(bookContent)
+		bookContent = strings.ToLower(bookContent)
 
-	if bookContent == "" {
-		fmt.Println("Failed to get book content.")
-		return
+		if bookContent == "" {
+			fmt.Println("Failed to get book content.")
+			continue
+		}
+
+		var cleanBook string = RemoveCharacters(bookRoute, bookContent)
+		fmt.Println(cleanBook)
 	}
-
-	var cleanStudyScarlet string = RemoveCharacters(studyScarletRoute, bookContent)
-	fmt.Println(cleanStudyScarlet)
 }
